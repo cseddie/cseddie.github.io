@@ -1,6 +1,6 @@
-0. Content Page
+# 0 Content Page
 
-1  27/11/2016
+## 1  27/11/2016
 
 1.1 Introduction to terminal - navigating around terminal using commands
 
@@ -9,7 +9,7 @@
 1.3 Creating files - Learning to create file/multiple file on terminal using atom text editor
 
 
-2  4/12/2016
+## 2  4/12/2016
 
 2.1 Modifying and making your work easier- understanding gem and using the colorize gem
 
@@ -21,7 +21,7 @@
 
 2.5 Introduction to function/mention- learning how to create a function and using them on atom
 
-3  18/12/2016
+## 3  18/12/2016
 
 3.1 Introduction to HTML-understanding HTML and how is webpages created
 
