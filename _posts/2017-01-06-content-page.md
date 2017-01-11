@@ -36,3 +36,7 @@
 3.6 Introduction to JavaScript- understanding JavaScript and using it
 
 3.7 Inserting table-how to insert table into html and styling it
+
+## 30/12/2016
+
+4.1 Jekyll- introduction to Jekyll and markdown
