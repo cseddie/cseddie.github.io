@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-15T16:25:16+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Markdown Syntex</title><link href="http://localhost:4000/2017/01/11/markdown-syntex.html" rel="alternate" type="text/html" title="Markdown Syntex" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/11/markdown-syntex</id><content type="html" xml:base="http://localhost:4000/2017/01/11/markdown-syntex.html">&lt;h1 id=&quot;hello-world&quot;&gt;hello world&lt;/h1&gt;
+
+&lt;h2 id=&quot;hello-world-1&quot;&gt;hello world&lt;/h2&gt;
+
+&lt;h3 id=&quot;hello-world-2&quot;&gt;hello world&lt;/h3&gt;
+
+&lt;h4 id=&quot;hello-world-3&quot;&gt;hello world&lt;/h4&gt;
+
+&lt;h5 id=&quot;hello-world-4&quot;&gt;hello world&lt;/h5&gt;
+
+&lt;h6 id=&quot;hello-world-5&quot;&gt;hello world&lt;/h6&gt;
+
+&lt;h1 id=&quot;hello-world-6&quot;&gt;hello world&lt;/h1&gt;
+
+&lt;h2 id=&quot;hello-world-7&quot;&gt;hello world&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;this is unordered list&lt;/li&gt;
+  &lt;li&gt;this is also an unordered list&lt;/li&gt;
+  &lt;li&gt;this can also be use&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;cseddie.github.io&quot;&gt;my first link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tables&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 3 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 2 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;zebra stripes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><summary type="html">hello world</summary></entry><entry><title type="html">Lesson 4.1</title><link href="http://localhost:4000/2017/01/11/lesson-4.1.html" rel="alternate" type="text/html" title="Lesson 4.1" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/11/lesson-4.1</id><content type="html" xml:base="http://localhost:4000/2017/01/11/lesson-4.1.html">&lt;p&gt;Lesson 4.1 : Eddie programming lesson&lt;/p&gt;
+
+&lt;p&gt;Lesson 4.1 : Jekyll- introduction to Jekyll and markdown&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Markdown&lt;/li&gt;
+  &lt;li&gt;Jekyll&lt;/li&gt;
+  &lt;li&gt;Markdown syntax and their definition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This lesson we will be talking about markdown and Jekyll, basically markdown is a tool that allow us to write in a easy to understand and easy to write format, and it will convert it into html that the computer understand.Jekyll is a parsing engine or a static website generator, blogger or web writer also use it.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Above is my blog created from Jekyll.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Like html, markdown has its own syntax for header, paragraph, list..etc. Especially for me, after trying it out, it is a whole lot more simpler and easier to write, saving me a lot of trouble. Lets show you this list of syntax and their definitions that I learnt during my last lesson and try it out later.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;As you know, in html, header is represented by the elements &amp;lt;h1&amp;gt; to &amp;lt;h6&amp;gt; respectively, in markdown it’s represented be the # symbol, with 1 # = &amp;lt;h1&amp;gt; so on and so forth, but &amp;lt;h1&amp;gt; and &amp;lt;h2&amp;gt; can be represented by setext-style (whatever that mean), but you can see the example above, later we will be testing it out ourself.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;For unordered list, markdown uses ( * + and - ), any three will produce the same result apparently, for ordered list, they just use numbers and period.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And if we want to add link to our website, the syntax is &lt;a href=&quot;http://linktext.com&quot;&gt;link text&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And if you want to insert image, the syntax is almost the same as link syntax&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;now lets try it out on atom and see. First you will need to install Jekyll, create a new website, and run the server.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;After its done, this should come out on terminal.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Then on your desktop you should have a folder name website.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;You will need to open atom and drag the file inside and you should get something like this&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Note that if you want to create or rename a new file, you need to create it in the posts folder, and the file format need to be in YEAR-MM-DATE-text.md, if not Jekyll will not be able to read your file.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;To take a look at the website you’ve generated, just copy the the url from the terminal, paste it on the browser and load it.
+￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Now that this is done, lets create a file and try out some simple syntax for markdown on our text editor and look at its markdown preview.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;For the header above, you can see that I didn’t have to type a lot, just a few simple symbol and its done, now lets try to create a list and link.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Lets try putting in the table too, (always remember that we can always copy and paste the stuff that we want so we can get things done fast and also making sure we won’t get things to be type wrongly)&lt;/p&gt;
+
+&lt;p&gt;￼
+Lets copy and paste the table here and try it out.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;As you can see , writing in markdown is really really simple, and it’s understandable. if a guy like me can do it,  i guess anybody can do it too=)&lt;/p&gt;</content><summary type="html">Lesson 4.1 : Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.7</title><link href="http://localhost:4000/2017/01/08/lesson-3.7.html" rel="alternate" type="text/html" title="Lesson 3.7" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.7</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.7.html">&lt;h1 id=&quot;lesson-37-eddie-programming-lesson&quot;&gt;Lesson 3.7 Eddie programming lesson&lt;/h1&gt;
+
+&lt;h2 id=&quot;lesson-37-inserting-table-how-to-insert-table-into-html-and-style-it&quot;&gt;Lesson 3.7 inserting table-how to insert table into html and style it&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;introduction to the different elements and attributes for table&lt;/li&gt;
+  &lt;li&gt;inserting table into HTML&lt;/li&gt;
+  &lt;li&gt;styling it&lt;/li&gt;
+  &lt;li&gt;alternative for bootstrap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Continuing from where we left off, this time we are going to learn how to insert a table into our webpage, using the different elements and attributes and looking at the different format for the table available.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;/p&gt;
+
+&lt;p&gt;Above is the different elements and attributes definition and their usage, later on when we start on our table, I will explain it to you.
+Now let’s look at the available table format in bootstrap.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼
+￼
+￼&lt;/p&gt;
+
+&lt;p&gt;we are going to use the contextual class table and use the different color available to style it. this is going to look confusing bit as we are going to introduce table elements and the attribute, but we will get it as we go on.
+So first we go back into our previous HTML document, type in the &amp;lt;table&amp;gt; elements, in the opening tag we have to add the base class=”table”, as the explanation said above, it’s a little redundant but because of the widespread use, they have opted to isolate their custom style.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Anyway, we should know by now that in a HTML document, different elements stand for different things, and that there’s a hierarchy, for example, first come &amp;lt;html &amp;gt;, &amp;lt;head&amp;gt; then the &amp;lt;body&amp;gt;. Well same things apply for table, first there is &amp;lt;table&amp;gt;, &amp;lt;thead &amp;gt;,&amp;lt;tbody &amp;gt; and then &amp;lt;tfoot&amp;gt;, in order for your webpage to load properly, you have to get your hierarchy correct.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;After you have written in &amp;lt;table&amp;gt; and its class, you can type in &amp;lt;thead&amp;gt;, which is use to group header content,  inside it you have to type in &amp;lt;th&amp;gt; for the header content, once the header content is done, you can proceed with the table body, in which &amp;lt;tbody&amp;gt; is the element, inside the body you will have to type in the same &amp;lt;tr&amp;gt; for the table row, in our case since we are styling our table with the different color, our &amp;lt;tr&amp;gt; will need to have the base class of the color, and one that is done, our column content will have to be put in the &amp;lt;td&amp;gt; element. you can look at my html as a reference.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;After this is all done let”s save it and take a look at how our table looks like.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;and it looks great=) anyway i tried a few times before I get to make a proper table, previously I type in wrongly and it turn out not so great, but I will still put in a screenshots as a reference to show how important we have to type in correctly or get our hierarchy correction order for the browser to display it correctly.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼
+This one above I forgot to put in the numbering.&lt;/p&gt;
+
+&lt;p&gt;￼
+This one above I type in the wrong place for the row number, unfortunately I forgot to take a screenshot of it but things turn a little ugly, the table was a little jumbled up. but still its good, as I managed to figure things out with some reference and some mistake.&lt;/p&gt;
+
+&lt;p&gt;Beside bootstrap, there are many others open source javascript for us to use, we just have to google it, I have found some online, maybe for our next minute we can give it a try.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;/p&gt;</content><summary type="html">Lesson 3.7 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.6</title><link href="http://localhost:4000/2017/01/08/lesson-3.6.html" rel="alternate" type="text/html" title="Lesson 3.6" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.6</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.6.html">&lt;h1 id=&quot;lesson-36-eddie-programming-lesson&quot;&gt;Lesson 3.6 Eddie programming lesson&lt;/h1&gt;
+
+&lt;h2 id=&quot;lesson-36-introduction-to-javascript--understanding-javascript-and-using-it&quot;&gt;Lesson 3.6 introduction to JavaScript- understanding JavaScript and using it.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;understanding bootstrap/open source javascript&lt;/li&gt;
+  &lt;li&gt;inserting styled buttons in our webpage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Continuing from where we left off, we have actually started to use JavaScript in our HTML, and its bootstrap. Bootstraps is an open source JavaScript framework which has all kind of different CSS available and there are many other options besides bootstrap, from what I’ve learnt and remember, HTML is the building block, CSS is for styling our HTML document and JavaScript is for interaction, to provide interactivity for our web pages. If you notice from my previous note, there have been mention of bootstrap and CDN, bootstrap I have already explained so Basically if you want to load your JavaScript and CSS you will need CDN in order to do that, CDN is short for content delivery network, which you should get from the name itself, this is what bootstrap/open source javascript and the CDN looks like is this.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Of cause there are other alternative beside bootstrap, we will try them out next time so for now we will stick to using bootstrap first. lets try to insert the different type of buttons on our current html document, the available type of buttons are below.
+￼&lt;/p&gt;
+
+&lt;p&gt;To get the type you want, you just need to add in “class” inside the button elements.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And after you’re done it would look like this.&lt;/p&gt;
+
+&lt;p&gt;￼
+This time we will insert a total of 4 buttons.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And if that is too small, you can actually change the size of it to make it more noticeable&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;So lets try it out&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And lets test out the  other different ones too&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Now even though you have added the button, it still can’t do anything,  nothing is going to happen if you try to click it, you have to assign a function to it. Let try to assign a function to it
+and see what would show.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼
+￼&lt;/p&gt;</content><summary type="html">Lesson 3.6 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.5</title><link href="http://localhost:4000/2017/01/08/lesson-3.5.html" rel="alternate" type="text/html" title="Lesson 3.5" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.5</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.5.html">&lt;h1 id=&quot;lesson-35-eddie-programming-lesson&quot;&gt;Lesson 3.5 Eddie programming lesson&lt;/h1&gt;
+
+&lt;h2 id=&quot;lesson-35-inserting-images-into-html-documents-how-to-insert-and-style-image-in-html-documents&quot;&gt;Lesson 3.5 inserting images into HTML documents-how to insert and style image in HTML documents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;inserting image&lt;/li&gt;
+  &lt;li&gt;styling image&lt;/li&gt;
+  &lt;li&gt;using an open source javascript to style images&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this topic we are going to talk about how to insert different images into our HTML document, the different type of images you can insert in is jpg images, gif images and Png images, for now we will focus on jpg images, an image is define by the tag &lt;img /&gt;, this is an empty tag and it does not have a closing tag but it does contain attributes inside it, namely “src”, this attribute specifies the url(web address)for your image, and the 2nd attribute “alt”, this attribute provides a alternate text for an image when the user for some reason are not able to view it.
+￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;As you can see in the above image of the text that is shown in place of the image.
+Just as you can style your text in HTML, you can do the same with images using width and height, there are two ways to do this, the first being the style attribute, with the value specified in px.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;The second way of doing it would be just using the width and height attribute.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;But from what I’ve found, using the style attribute would be more better as it will prevent other style sheet from changing the original size of the picture.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;/p&gt;
+
+&lt;p&gt;Below is a summary for images and the tags for it.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;So now we will try it out from our macbook and use an open source javascript framework called bootstrap which has all kinds of different format for images, tables and buttons, I will explain what is javascript and the rest later on, for now lets try it and see what is does.&lt;/p&gt;
+
+&lt;p&gt;As you know, the &amp;lt;head&amp;gt; section is where we write our css and javascript, so we go into bootstrap CDN and copy and paste the link for the complete css into our html document,&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And we can go and find the images that we want to insert in using the inspect elements.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;After thats done, lets save and try to load.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And it work! Ok now lets try the different format for the images and lets adjust the size of it too as its too big, in this case we will use the internal css which which is also another way to style our html, it uses the &lt;style&gt; elements.&lt;/style&gt;&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;We will try the using img-circle, to do that it says that we will need to add in class to the &lt;img /&gt; elements.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;now lets adjust the size to 30% for the width and height.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And its done for now, I will add in different things like button and table and I will find other alternative beside bootstrap to use and try how things look too&lt;/p&gt;</content><summary type="html">Lesson 3.5 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.4</title><link href="http://localhost:4000/2017/01/08/lesson-3.4.html" rel="alternate" type="text/html" title="Lesson 3.4" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.4</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.4.html">&lt;h1 id=&quot;lesson-34-eddie-programming-lesson&quot;&gt;Lesson 3.4 Eddie programming lesson&lt;/h1&gt;
+
+&lt;h2 id=&quot;lesson-34--different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-css&quot;&gt;Lesson 3.4 : different type of fonts-styling using fonts and attribute with internal CSS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;different fonts available&lt;/li&gt;
+  &lt;li&gt;how to style using fonts and attribute&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Like Color, fonts can be added to our HTML document in many ways, and as I mentioned before there are different type of font(font-family which is for different type of text, font-size which is for the size of your text and text-align in which you can align your text where you want it to be). Of cause there is also HTML formatting elements which you can use but we will get to that later.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;I have already tried some of the font from my macbook and took a screenshot of it for you to see how it looks like, and I will show you stuff from the website too as a reference.
+For choosing which type of wording you want, you can use font-family.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;For text size you can use font-size.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼
+note in a HTML document you can adjust not just text size, you can even adjust the size of image too, I will talk about it later on when we get to adding image in HTML&lt;/p&gt;
+
+&lt;p&gt;And for alignments of text in the document you can use text-align.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Now that I have shown you those from the website, I will show you those that I have tried on my macbook.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Note that I have also use internal CSS in this, and adding in CSS border in the &amp;lt;head&amp;gt; section within &lt;style&gt; element, and as previously mentioned internal CSS is use to define a style for a single HTML page, that's why it can save a lot of trouble so you don't have to do it one by one.&lt;/style&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+And if you don’t want the space within the border to be too wide you can add in CSS padding into it.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼
+And then there is also CSS margin which define the space outside of the border.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;I know that my html documents is a little messy, but you can see that just inside one documents I have, added a lot of things, inline CSS, internal CSS, CSS fonts, colors, background color, CSS border, padding, margin etc( for the external CSS we will hold that first and talk about it later)&lt;/p&gt;
+
+&lt;p&gt;Anyway when I just said that beside using font family, that you can also use formatting inside the documents, it is like font but different. you should notice that inside my html document I have this &lt;b&gt;&lt;/b&gt; elements, this is html text formatting, below are a list of the formatting elements available.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Lets try it out too.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;/p&gt;
+
+&lt;p&gt;And this is how you can use formatting, while we are at it lets try out the “id” and “class” attribute” when you want to style a single element you will use id attributes, when you want to edit multiple element you will use class attributes.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼
+￼&lt;/p&gt;
+
+&lt;p&gt;you can use id attribute to style your elements be it text or image, which we will get to later.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And lets try class attribute.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;For id you you must remember to put a # beside your id and for class it is a . Symbol. it doesn’t have to be just color, you can edit the size of your text or images, you just have to explore to see what else we can do with it=)&lt;/p&gt;</content><summary type="html">Lesson 3.4 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.3</title><link href="http://localhost:4000/2017/01/08/lesson-3.3.html" rel="alternate" type="text/html" title="Lesson 3.3" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.3</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.3.html">&lt;p&gt;#Lesson 3.3 Eddie programming lesson&lt;/p&gt;
+
+&lt;h2 id=&quot;lesson-33-applying-internal-css--understanding-how-to-use-internal-css-and-the-different-elements-and-attributes&quot;&gt;Lesson 3.3 applying internal CSS- understanding how to use internal CSS and the different elements and attributes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;using internal css&lt;/li&gt;
+  &lt;li&gt;kowning the different elements, attribute and their definition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I mentioned previously that there are 3 ways we can add CSS to our documents, this time we will talk about the 2nd CSS. As it’s stated above, it’s called internal CSS. As I mentioned before in my previous minute about attributes, style is a attribute and it specifies an inline CSS style for an element.
+in order not to be confused “attribute usually comes in name/value pair like: name= value”&lt;/p&gt;
+
+&lt;p&gt;but in this case &lt;style&gt; is a element, and when you use internal CSS you will be able to see it, as it is stated below, an internal CSS is stated in the &amp;lt;head&amp;gt; section within a &lt;style&gt; element.
+elements usually consist of a start tag and end tag
+--&amp;gt; &lt;tagname&gt; content &lt;/tagname&gt;*&lt;/style&gt;&lt;/style&gt;&lt;/p&gt;
+
+&lt;p&gt;On a side note, so far from what I have learned, I now know that there is no right or wrong way to do things in programming, like for one things you can have different ways of doing it to get the same results.Things are complicated yet simple at the same times, you just have to understand it and find out how things work and why it works. I think that different programmers have different working styles and ways of doing things, perhaps we just have to find a style that suits each of us.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;note that inside &amp;lt;head&amp;gt;, it is where we write our CSS and javascript*&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Above is a brief description about the &amp;lt;head&amp;gt; section.&lt;/p&gt;
+
+&lt;p&gt;Lets try it out from my macbook and use some of the things we learned previously (RGB value, hex value) to see the effect.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;We can do the same thing with fonts like how we do with color, I will talk about fonts later on and once everything has been explain, we will try out everything on the macbook in one html documents=)&lt;/p&gt;</content><summary type="html">#Lesson 3.3 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.2</title><link href="http://localhost:4000/2017/01/08/lesson-3.2.html" rel="alternate" type="text/html" title="Lesson 3.2" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.2</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.2.html">&lt;h1 id=&quot;lesson-32-eddie-programming-lesson&quot;&gt;Lesson 3.2 Eddie programming lesson&lt;/h1&gt;
+
+&lt;h2 id=&quot;lesson-32--ways-of-applying-css--styling-our-html-documents-using-inline-csscolor&quot;&gt;Lesson 3.2 : ways of applying CSS -styling our HTML documents using inline CSS(Color)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;introduction to CSS&lt;/li&gt;
+  &lt;li&gt;different ways of applying css&lt;/li&gt;
+  &lt;li&gt;styling html using CSS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For this section we are going to talk about style, Color and fonts for our HTML document, which basically is called CSS, CSS stands for cascading style sheet, it let us manipulate our work to how we want it to appear on screen or other media for the user, and there are 3 ways which we can apply CSS on our HTML documents.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;As it is shown above the 3 ways of doing it, the first which is what we will be doing “inline CSS”&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;it’s hard to memorise it all in one time but as we use more of it, it will come to us naturally so not to worry as we will take it one step at a time.&lt;/p&gt;
+
+&lt;p&gt;For the Color, we can edit the Color of the text, background Color.
+For the fonts, there are even more options available, e.g : font-family(for the style of the text), font-size(how big or small you want your text to be, font-align(to align your text where you want it to be).&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;In HTML there are a few ways which you can specify Color, the first one you can specify by Color name.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And beside doing background Color you can do it with the text too which is really simple.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And if you want your whole page to change Color you can too.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;The second is by RGB value which you can set.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Let’s try it out from this website and see.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And there are different shades of grey for this too, I’m going to try it to see.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And true enough, so long as the value is equal for all three light sources, you will be able to get different shades of grey.
+The third way to specify Color is using hex value though I did not learn about its value but we can google for it and I found some sites that do have it.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And like RGB value you can set it which ever way you want as Long as you know the value of the Color you want. And it also has different shades of grey too.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;I will show you the website that I found which show me the value of the Color and we can try it out.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Ok let’s try out these 3 Color (#8298e5, #00cd00 and #ff4479)&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Ok and it works! So things aren’t really that difficult since a lot of stuff we can google it online as long as you know which to find.&lt;/p&gt;</content><summary type="html">Lesson 3.2 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.1</title><link href="http://localhost:4000/2017/01/08/lesson-3.1.html" rel="alternate" type="text/html" title="Lesson 3.1" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.1</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.1.html">&lt;h1 id=&quot;lesson-31-eddie-programming-lesson&quot;&gt;Lesson 3.1 Eddie programming lesson&lt;/h1&gt;
+
+&lt;h2 id=&quot;lesson-31--introduction-to-html-understanding-html-and-how-is-webpages-created&quot;&gt;Lesson 3.1 : introduction to HTML-understanding HTML and how is webpages created&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;introduction to HTML&lt;/li&gt;
+  &lt;li&gt;html elements and their definition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After my last lesson and some online research I learn a lot about HTML, CSS and JavaScript. For now we will talk about HTML and as we go along I will add in CSS and JavaScript.
+Ok so HTML basically stand for hyper text markup language, it is simply the building block for webpages,  after it’s written the computer will translate it into what and how we want it to be for the user/client to see.
+For a more detailed explanation you can look at the screenshot below.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And another picture of what a HTML document look like.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Another picture below to show you how the computer interpret it.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;If you notice, inside a HTML document there are a lot of this bracket &amp;lt;&amp;gt; with character or wording inside, we call it HTML tag , don’t worry we will get to what they each mean as we go along the way.
+As most ppl will know &amp;lt;h1&amp;gt; to &amp;lt;h6&amp;gt; stands for the heading with h1 being the most important to h6 being the least.&lt;/p&gt;
+&lt;p&gt; actually stands for the paragraph and as it is stated above, only those which is in the &lt;body&gt;&lt;/body&gt; will be shown when the browser interpret the html script.
+
+￼
+
+If you notice, for every opening tag &lt;tagname&gt;, there is a closing tag&lt;/tagname&gt;, it is important to remember to add in the closing tag, even though sometimes when you did not put in a closing tag, the computer will still display it correctly but it is best to not rely on this as there are times when error will still occur, so do make it a habit.
+
+HTML tag (when you put tag ,always remember to put opening tag and closing tag)  
+opening tag -&amp;gt; &lt;html&gt;
+Closing tag -&amp;gt;  &lt;/html&gt;
+
+Computers nowadays are more clever or less strict, an example would be from what i learn from our last lesson on heading, last time if we want the correct heading we have to put an opening tag and closing tag of &lt;h1&gt;&lt;/h1&gt; then only will the computer understand and give us what we want of the heading, but now computer are more advanced, for example if we want our heading to be &lt;h6&gt;, let's say we put in &lt;h6&gt;&amp;lt;/h1&amp;gt; , it will understand and give us a heading of &lt;h6&gt;, but note that it's only applicable when we put it in the opening tag and NOT the closing tag, i tried to do it and it's not able to run it. On another note, it's best to put it the same instead of what we just tried as it would be confusing for other programmers to see and be seems as lazy.
+there are other more tag and I will post a few screenshot of it as a reference
+
+￼
+
+Below is some of the tag reference and their descriptions commonly use in HTML documents.
+
+￼
+
+And these are some of the attributes and descriptions use in HTML too, attributes provide additional information for HTML documents.
+
+￼
+
+
+￼
+
+For now we will focus on other things, later on I will add in attributes and explain them as we add them in.
+Anyway, i will try out some simple stuff that I mention and I will add in more of the stuff that I learn as we go on step by step and try to keep it easier to understand.
+
+￼
+
+￼
+
+ok now that you know what does a heading look like,  lets add in some paragraph.
+
+￼
+
+￼
+
+after my last lesson and bit of research it’s actually not that hard to learn so long as you understand how it works, for now this will be it, I will add in color and font for my next minute.
+&lt;/h6&gt;&lt;/h6&gt;&lt;/h6&gt;&lt;/p&gt;</content><summary type="html">Lesson 3.1 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 2.5</title><link href="http://localhost:4000/2017/01/08/lesson-2.5.html" rel="alternate" type="text/html" title="Lesson 2.5" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-2.5</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-2.5.html">&lt;h1 id=&quot;lesson-25-eddie-programming-lesson&quot;&gt;lesson 2.5 Eddie programming lesson&lt;/h1&gt;
+
+&lt;h2 id=&quot;lesson-25-introduction-to-functionmethod--learning-how-to-create-a-function-and-using-them-on-atom&quot;&gt;Lesson 2.5 introduction to function/method- learning how to create a function and using them on atom&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;how to create function&lt;/li&gt;
+  &lt;li&gt;how to use function&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This topic will be about function/method&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;This is a function, you have to type in “def” which simply mean definition, and then we provide the name, if you notice, we have to type in underscore in a sentence, and in programming we don’t call that a sentence, we call that a word, for example “I_want_to_eat” , “where_are_you”, all this is called a word, you can’t have 2 word for a function. For explanation on function this is what I found.
+￼
+￼&lt;/p&gt;
+
+&lt;p&gt;So this roughly explains what it is. So lets try it out, for now we will call our function “what_did_you_eat”, and the result we will put “apple” .&lt;/p&gt;
+
+&lt;p&gt;￼
+￼
+Ok so nothing came out, so there are 2 problems here, whats the problem here?
+Well apparently, as it says in the explanation above, in order for the computer to come out a result, you have to give it something for it to process, in this case, we did not give it “something” to process, so nothing can come out, so now we give it a variable name “food”, and try it out.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;/p&gt;
+
+&lt;p&gt;So we gave it a variable but it still not able to process, this is cause of the 2nd problem that we mention just now. In this case, we did not call it out, we have to call out the function in order for the computer to process it.&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;/p&gt;
+
+&lt;p&gt;as it says above, there’s a argument error here, we had given 0 argument here and expected 1, arguments simply mean this.&lt;/p&gt;
+
+&lt;p&gt;￼
+ And if I am not wrong, from the above, if we expect 2 den w have to give 2, if we expect 3 we have to give 3 , so lets try it again.
+￼
+￼&lt;/p&gt;
+
+&lt;p&gt;This time there’s another error, “undefined local variable or method ‘food’ ” it simply means we did not define what is food and the computer doesn’t know what is it. (note if you notice, in atom, each color code stand for something, it doesn’t mean this color have to stand for this as it ca be change)  for this case we just follow it as it is for now, for function the color is blue in here, for strings it is green, and if it is just white to the computer it’s just a variable*, so we have to change it to a string, and lets try it out&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼
+ And finally we get the result that we want=)&lt;/p&gt;
+
+&lt;p&gt;Anyway, to pick up where we left off from last lesson, something happen when we tried to use this macbook text editor instead of atom, and it cause bait of a problem when we try to ran the script.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;From what I notice, the string changes into a variable after we save the script on textedit, hence, the computer is not able to comprehend what is “Eddie” which is why it is not able to print it out,  what I know is that on atom there are color code on atom for the computer to differentiate which is which, I feel that on the textedit there is none there and from time to time it will cause error when we try to run the script, I think that is one of the reason why atom is the better text editor to use, well this is my explanation for why it happen that day, but I could be wrong about it.&lt;/p&gt;</content><summary type="html">lesson 2.5 Eddie programming lesson</summary></entry></feed>
