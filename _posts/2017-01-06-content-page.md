@@ -40,4 +40,5 @@
 ## 30/12/2016
 
 4.1 Jekyll- introduction to Jekyll and markdown
+
 4.2 pushing content to Jekyll-learning to push your content into your static website
