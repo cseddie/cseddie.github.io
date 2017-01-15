@@ -1,0 +1,113 @@
+<h1 style="text-align: center" id="lesson-42-eddie-programming-lesson">Lesson 4.2 Eddie programming lesson</h1>
+<hr />
+
+<h2 style="text-align: center" id="lesson-42-pushing-content-to-jekyll-learning-to-push-your-content-into-your-static-website">Lesson 4.2 pushing content to Jekyll-learning to push your content into your static website</h2>
+
+<ul>
+  <li>How to push content</li>
+  <li>How to edit your content</li>
+</ul>
+
+<p>Now that we know how to write a webpage in markdown on our text editor, we will need to put our content on our website, previously i have mentioned that jekyll is a static website generator and i have created a blog using it or rather jekyll have created it.
+All we will need to do is just to “push” our content into it, there is just 3 simple step to doing it, it is quite simple actually, we just need to remember 3 word :</p>
+
+<ol>
+  <li>Add</li>
+  <li>Commit</li>
+  <li>Push</li>
+</ol>
+
+<p>I will show it to you via screentshot and explain it.
+After we have written our content, if it’s on note like mine we have to copy from there and go to atom, create a new file and paste it inside, and just edit it from there. So below is the file I have created and the content that I have copy and paste from note.</p>
+
+<p>￼</p>
+
+<p>￼</p>
+
+<p><em>note</em> : there was abit of problem when I copy and paste my content in here, the problem is when I copy from my note, I am not able to copy the images into it, and it got me stuck for days, after my last lesson I found out that the solution is actually quite simple which I will explain later, There are two ways to insert images in markdown, the first being inline style, the 2nd is reference style with both of the syntax looking like this:</p>
+
+<ul>
+  <li>inline style</li>
+</ul>
+
+<p><img src="/path/to/your/image.png" alt="alt text" /></p>
+
+<p><img src="/path/to/your/image.png" alt="alt text" title="optional title" /></p>
+
+<ul>
+  <li>reference style</li>
+</ul>
+
+<p><img src="/path/to/your/image.png" alt="alt text" /></p>
+
+<p>The problem I encountered When I copied the content from my note is that it isn’t in there, and end up I needed to find the URL for it, the first thing I tried is to copy the image and paste it into the browser to get the URL but the image is unable to load as the computer is unable to locate the image, the second time I tried to create a image folder in the site folder and drag my image in, but still it is unable to load as from what I am told, because every time when we edit stuff or content, or we push our content in, Jekyll will “build” and during this short process, the image folder which I created will be destroyed, <em>except</em> for the default file or folder inside it. So what I have learnt is that I will need to create a image folder outside of the site folder, then it will not be destroyed.</p>
+
+<p>￼</p>
+
+<p>After that’s done you can move your image inside</p>
+
+<p>￼</p>
+
+<p>This time we will push lesson 1.1 into our website with the image and see how it goes, once the content has been paste, we will have to type in the image link one by one.
+￼</p>
+
+<p>you can edit the header all that before you push it so you won’t have to come back again to edit it.</p>
+
+<p>￼</p>
+
+<p>Once everything’s done we can proceed to pushing it in, after you’ve check everything, save the documents, then open terminal and type in this “Jekyll build” , the build in this case means it will build your website for you</p>
+
+<p>￼</p>
+
+<p>After that type in “Jekyll serve” for the server to start running</p>
+
+<p>￼</p>
+
+<p>Before you push your content, you can take a preview to see whether it will show the way you want it to, you just have to copy the server address link and paste it in the browser</p>
+
+<p>￼</p>
+
+<p>￼</p>
+
+<p>in this case our image turns out way too big, we will have to resize it, I have tried one way which I found
+online but it didn’t work
+￼</p>
+
+<p>￼</p>
+
+<p>￼</p>
+
+<p>The one above that I tried but end up the image was not able to load, turns out I have use the wrong syntax, what I found out is that there are many implementations for markdown, and each implementation uses slightly different syntax. And GitHub is using kramdown, which doesn’t support the syntax that I use above, so what I’ve been shown to work is the following
+￼</p>
+
+<p>Lets us try this out again and see the preview</p>
+
+<p>￼</p>
+
+<p>￼</p>
+
+<p>￼</p>
+
+<p>And it works this time, now we can proceed to push our content, so first let us go back to terminal and type in the following “git add .”</p>
+
+<p>￼</p>
+
+<p>Then we can type in the following cmd “git commit -m ‘commit text or msg’ “ and press enter</p>
+
+<p>￼
+￼</p>
+
+<p>Now we can type in the following cmds “git push origin master”</p>
+
+<p>￼</p>
+
+<p>And once that’s done let head into GitHub and see our commit</p>
+
+<p>￼</p>
+
+<p>And we can head into our blog to check it out</p>
+
+<p>￼</p>
+
+<p>￼
+So it works! <em>after</em> many mistake and problem, on a side note, one of the problem that has cause me many days was the loading of the image, first time is the url problem, second time is when I create the image folder in the wrong place, the third time is when i’ve overlook a very very basic mistake, which is the first letter of my image file is capitalise but not in my content that I wrote.</p>

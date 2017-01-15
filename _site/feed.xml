@@ -1,5 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-15T23:49:01+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Markdown Syntex</title><link href="http://localhost:4000/2017/01/11/markdown-syntex.html" rel="alternate" type="text/html" title="Markdown Syntex" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/11/markdown-syntex</id><content type="html" xml:base="http://localhost:4000/2017/01/11/markdown-syntex.html">&lt;h1 id=&quot;hello-world&quot;&gt;hello world&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-15T23:54:22+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-42-pushing-content-to-jekyll-learning-to-push-your-content-into-your-static-website&quot;&gt;Lesson 4.2 pushing content to Jekyll-learning to push your content into your static website&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to push content&lt;/li&gt;
+  &lt;li&gt;How to edit your content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now that we know how to write a webpage in markdown on our text editor, we will need to put our content on our website, previously i have mentioned that jekyll is a static website generator and i have created a blog using it or rather jekyll have created it.
+All we will need to do is just to “push” our content into it, there is just 3 simple step to doing it, it is quite simple actually, we just need to remember 3 word :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Add&lt;/li&gt;
+  &lt;li&gt;Commit&lt;/li&gt;
+  &lt;li&gt;Push&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I will show it to you via screentshot and explain it.
+After we have written our content, if it’s on note like mine we have to copy from there and go to atom, create a new file and paste it inside, and just edit it from there. So below is the file I have created and the content that I have copy and paste from note.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;note&lt;/em&gt; : there was abit of problem when I copy and paste my content in here, the problem is when I copy from my note, I am not able to copy the images into it, and it got me stuck for days, after my last lesson I found out that the solution is actually quite simple which I will explain later, There are two ways to insert images in markdown, the first being inline style, the 2nd is reference style with both of the syntax looking like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;inline style&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/path/to/your/image.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/path/to/your/image.png&quot; alt=&quot;alt text&quot; title=&quot;optional title&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;reference style&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/path/to/your/image.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The problem I encountered When I copied the content from my note is that it isn’t in there, and end up I needed to find the URL for it, the first thing I tried is to copy the image and paste it into the browser to get the URL but the image is unable to load as the computer is unable to locate the image, the second time I tried to create a image folder in the site folder and drag my image in, but still it is unable to load as from what I am told, because every time when we edit stuff or content, or we push our content in, Jekyll will “build” and during this short process, the image folder which I created will be destroyed, &lt;em&gt;except&lt;/em&gt; for the default file or folder inside it. So what I have learnt is that I will need to create a image folder outside of the site folder, then it will not be destroyed.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;After that’s done you can move your image inside&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;This time we will push lesson 1.1 into our website with the image and see how it goes, once the content has been paste, we will have to type in the image link one by one.
+￼&lt;/p&gt;
+
+&lt;p&gt;you can edit the header all that before you push it so you won’t have to come back again to edit it.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Once everything’s done we can proceed to pushing it in, after you’ve check everything, save the documents, then open terminal and type in this “Jekyll build” , the build in this case means it will build your website for you&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;After that type in “Jekyll serve” for the server to start running&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Before you push your content, you can take a preview to see whether it will show the way you want it to, you just have to copy the server address link and paste it in the browser&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;in this case our image turns out way too big, we will have to resize it, I have tried one way which I found
+online but it didn’t work
+￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;The one above that I tried but end up the image was not able to load, turns out I have use the wrong syntax, what I found out is that there are many implementations for markdown, and each implementation uses slightly different syntax. And GitHub is using kramdown, which doesn’t support the syntax that I use above, so what I’ve been shown to work is the following
+￼&lt;/p&gt;
+
+&lt;p&gt;Lets us try this out again and see the preview&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And it works this time, now we can proceed to push our content, so first let us go back to terminal and type in the following “git add .”&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Then we can type in the following cmd “git commit -m ‘commit text or msg’ “ and press enter&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;/p&gt;
+
+&lt;p&gt;Now we can type in the following cmds “git push origin master”&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And once that’s done let head into GitHub and see our commit&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;And we can head into our blog to check it out&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼
+So it works! &lt;em&gt;after&lt;/em&gt; many mistake and problem, on a side note, one of the problem that has cause me many days was the loading of the image, first time is the url problem, second time is when I create the image folder in the wrong place, the third time is when i’ve overlook a very very basic mistake, which is the first letter of my image file is capitalise but not in my content that I wrote.&lt;/p&gt;</content><summary type="html">Lesson 4.2 Eddie programming lesson</summary></entry><entry><title type="html">Markdown Syntex</title><link href="http://localhost:4000/2017/01/11/markdown-syntex.html" rel="alternate" type="text/html" title="Markdown Syntex" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/11/markdown-syntex</id><content type="html" xml:base="http://localhost:4000/2017/01/11/markdown-syntex.html">&lt;h1 id=&quot;hello-world&quot;&gt;hello world&lt;/h1&gt;
 
 &lt;h2 id=&quot;hello-world-1&quot;&gt;hello world&lt;/h2&gt;
 
@@ -563,58 +675,4 @@ ok now that you know what does a heading look like,  lets add in some paragraph.
 ￼
 
 after my last lesson and bit of research it’s actually not that hard to learn so long as you understand how it works, for now this will be it, I will add in color and font for my next minute.
-&lt;/h6&gt;&lt;/h6&gt;&lt;/h6&gt;&lt;/p&gt;</content><summary type="html">Lesson 3.1 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 2.5</title><link href="http://localhost:4000/2017/01/08/lesson-2.5.html" rel="alternate" type="text/html" title="Lesson 2.5" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-2.5</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-2.5.html">&lt;h1 id=&quot;lesson-25-eddie-programming-lesson&quot;&gt;lesson 2.5 Eddie programming lesson&lt;/h1&gt;
-
-&lt;h2 id=&quot;lesson-25-introduction-to-functionmethod--learning-how-to-create-a-function-and-using-them-on-atom&quot;&gt;Lesson 2.5 introduction to function/method- learning how to create a function and using them on atom&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;how to create function&lt;/li&gt;
-  &lt;li&gt;how to use function&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This topic will be about function/method&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;This is a function, you have to type in “def” which simply mean definition, and then we provide the name, if you notice, we have to type in underscore in a sentence, and in programming we don’t call that a sentence, we call that a word, for example “I_want_to_eat” , “where_are_you”, all this is called a word, you can’t have 2 word for a function. For explanation on function this is what I found.
-￼
-￼&lt;/p&gt;
-
-&lt;p&gt;So this roughly explains what it is. So lets try it out, for now we will call our function “what_did_you_eat”, and the result we will put “apple” .&lt;/p&gt;
-
-&lt;p&gt;￼
-￼
-Ok so nothing came out, so there are 2 problems here, whats the problem here?
-Well apparently, as it says in the explanation above, in order for the computer to come out a result, you have to give it something for it to process, in this case, we did not give it “something” to process, so nothing can come out, so now we give it a variable name “food”, and try it out.&lt;/p&gt;
-
-&lt;p&gt;￼
-￼&lt;/p&gt;
-
-&lt;p&gt;So we gave it a variable but it still not able to process, this is cause of the 2nd problem that we mention just now. In this case, we did not call it out, we have to call out the function in order for the computer to process it.&lt;/p&gt;
-
-&lt;p&gt;￼
-￼&lt;/p&gt;
-
-&lt;p&gt;as it says above, there’s a argument error here, we had given 0 argument here and expected 1, arguments simply mean this.&lt;/p&gt;
-
-&lt;p&gt;￼
- And if I am not wrong, from the above, if we expect 2 den w have to give 2, if we expect 3 we have to give 3 , so lets try it again.
-￼
-￼&lt;/p&gt;
-
-&lt;p&gt;This time there’s another error, “undefined local variable or method ‘food’ ” it simply means we did not define what is food and the computer doesn’t know what is it. (note if you notice, in atom, each color code stand for something, it doesn’t mean this color have to stand for this as it ca be change)  for this case we just follow it as it is for now, for function the color is blue in here, for strings it is green, and if it is just white to the computer it’s just a variable*, so we have to change it to a string, and lets try it out&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;￼
- And finally we get the result that we want=)&lt;/p&gt;
-
-&lt;p&gt;Anyway, to pick up where we left off from last lesson, something happen when we tried to use this macbook text editor instead of atom, and it cause bait of a problem when we try to ran the script.&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;From what I notice, the string changes into a variable after we save the script on textedit, hence, the computer is not able to comprehend what is “Eddie” which is why it is not able to print it out,  what I know is that on atom there are color code on atom for the computer to differentiate which is which, I feel that on the textedit there is none there and from time to time it will cause error when we try to run the script, I think that is one of the reason why atom is the better text editor to use, well this is my explanation for why it happen that day, but I could be wrong about it.&lt;/p&gt;</content><summary type="html">lesson 2.5 Eddie programming lesson</summary></entry></feed>
+&lt;/h6&gt;&lt;/h6&gt;&lt;/h6&gt;&lt;/p&gt;</content><summary type="html">Lesson 3.1 Eddie programming lesson</summary></entry></feed>
