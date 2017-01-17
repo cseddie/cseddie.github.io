@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-15T23:57:57+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-17T22:19:21+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -25,15 +25,15 @@ After we have written our content, if it’s on note like mine we have to copy f
 
 &lt;p&gt;￼&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;note&lt;/em&gt; : there was abit of problem when I copy and paste my content in here, the problem is when I copy from my note, I am not able to copy the images into it, and it got me stuck for days, after my last lesson I found out that the solution is actually quite simple which I will explain later, There are two ways to insert images in markdown, the first being inline style, the 2nd is reference style with both of the syntax looking like this:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;note&lt;/strong&gt; : there was abit of problem when I copy and paste my content in here, the problem is when I copy from my note, I am not able to copy the images into it, and it got me stuck for days, after my last lesson I found out that the solution is actually quite simple which I will explain later, There are two ways to insert images in markdown, the first being inline style, the 2nd is reference style with both of the syntax looking like this:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;inline style&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/path/to/your/image.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![alt text] (/path/to/your/image.png)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/path/to/your/image.png&quot; alt=&quot;alt text&quot; title=&quot;optional title&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![alt text] (/path/to/your/image.png “optional title”)&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;reference style&lt;/li&gt;
@@ -41,7 +41,7 @@ After we have written our content, if it’s on note like mine we have to copy f
 
 &lt;p&gt;&lt;img src=&quot;/path/to/your/image.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The problem I encountered When I copied the content from my note is that it isn’t in there, and end up I needed to find the URL for it, the first thing I tried is to copy the image and paste it into the browser to get the URL but the image is unable to load as the computer is unable to locate the image, the second time I tried to create a image folder in the site folder and drag my image in, but still it is unable to load as from what I am told, because every time when we edit stuff or content, or we push our content in, Jekyll will “build” and during this short process, the image folder which I created will be destroyed, &lt;em&gt;except&lt;/em&gt; for the default file or folder inside it. So what I have learnt is that I will need to create a image folder outside of the site folder, then it will not be destroyed.&lt;/p&gt;
+&lt;p&gt;The problem I encountered When I copied the content from my note is that it isn’t in there, and end up I needed to find the URL for it, the first thing I tried is to copy the image and paste it into the browser to get the URL but the image is unable to load as the computer is unable to locate the image, the second time I tried to create a image folder in the site folder and drag my image in, but still it is unable to load as from what I am told, because every time when we edit stuff or content, or we push our content in, Jekyll will “build” and during this short process, the image folder which I created will be destroyed, &lt;strong&gt;except&lt;/strong&gt; for the default file or folder inside it. So what I have learnt is that I will need to create a image folder outside of the site folder, then it will not be destroyed.&lt;/p&gt;
 
 &lt;p&gt;￼&lt;/p&gt;
 
@@ -111,7 +111,7 @@ online but it didn’t work
 &lt;p&gt;￼&lt;/p&gt;
 
 &lt;p&gt;￼
-So it works! &lt;em&gt;after&lt;/em&gt; many mistake and problem, on a side note, one of the problem that has cause me many days was the loading of the image, first time is the url problem, second time is when I create the image folder in the wrong place, the third time is when i’ve overlook a very very basic mistake, which is the first letter of my image file is capitalise but not in my content that I wrote.&lt;/p&gt;</content><summary type="html">Lesson 4.2 Eddie programming lesson</summary></entry><entry><title type="html">Markdown Syntex</title><link href="http://localhost:4000/2017/01/11/markdown-syntex.html" rel="alternate" type="text/html" title="Markdown Syntex" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/11/markdown-syntex</id><content type="html" xml:base="http://localhost:4000/2017/01/11/markdown-syntex.html">&lt;h1 id=&quot;hello-world&quot;&gt;hello world&lt;/h1&gt;
+So it works! &lt;strong&gt;after&lt;/strong&gt; many mistake and problem, on a side note, one of the problem that has cause me many days was the loading of the image, first time is the url problem, second time is when I create the image folder in the wrong place, the third time is when i’ve overlook a very very basic mistake, which is the first letter of my image file is capitalise but not in my content that I wrote.&lt;/p&gt;</content><summary type="html">Lesson 4.2 Eddie programming lesson</summary></entry><entry><title type="html">Markdown Syntex</title><link href="http://localhost:4000/2017/01/11/markdown-syntex.html" rel="alternate" type="text/html" title="Markdown Syntex" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/11/markdown-syntex</id><content type="html" xml:base="http://localhost:4000/2017/01/11/markdown-syntex.html">&lt;h1 id=&quot;hello-world&quot;&gt;hello world&lt;/h1&gt;
 
 &lt;h2 id=&quot;hello-world-1&quot;&gt;hello world&lt;/h2&gt;
 
