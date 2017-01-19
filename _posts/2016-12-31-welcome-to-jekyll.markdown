@@ -5,7 +5,7 @@ date:   2016-12-31 20:50:51 +0800
 categories: jekyll update
 ---
 
-Eddie edit sthis file.
+Eddie edit edit file.
 
 This may create a difficult merge.
 
