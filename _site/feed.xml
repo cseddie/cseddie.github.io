@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-24T00:38:59+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-24T00:53:00+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -626,23 +626,23 @@ The third way to specify Color is using hex value though I did not learn about i
 Ok so HTML basically stand for hyper text markup language, it is simply the building block for webpages,  after it’s written the computer will translate it into what and how we want it to be for the user/client to see.
 For a more detailed explanation you can look at the screenshot below.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.1/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And another picture of what a HTML document look like.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/Lesson3.1/Photo2.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼{: height=”350px” width=”250px”}&lt;/p&gt;
 
 &lt;p&gt;Another picture below to show you how the computer interpret it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Lesson3.1/Photo3.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo3.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you notice, inside a HTML document there are a lot of this bracket &amp;lt;&amp;gt; with character or wording inside, we call it HTML tag , don’t worry we will get to what they each mean as we go along the way.
 As most ppl will know h1 to h6 elements stands for the heading with h1 being the most important to h6 being the least.
 the p elements actually stands for the paragraph and as it is stated above, only those which is in the body elements will be shown when the browser interpret the html script.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.1/Photo4.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo4.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you notice, for every opening tag, there is a closing tag, it is important to remember to add in the closing tag, even though sometimes when you did not put in a closing tag, the computer will still display it correctly but it is best to not rely on this as there are times when error will still occur, so do make it a habit.&lt;/p&gt;
 
@@ -651,20 +651,20 @@ the p elements actually stands for the paragraph and as it is stated above, only
 &lt;p&gt;Computers nowadays are more clever or less strict, an example would be from what i learn from our last lesson on heading, last time if we want the correct heading we have to put an opening tag and closing tag of h1 then only will the computer understand and give us what we want of the heading, but now computer are more advanced, for example if we want our heading to be h6, let’s say we put in h6 in front of h1 , it will understand and give us a heading of h6, but note that it’s only applicable when we put it in the opening tag and NOT the closing tag, i tried to do it and it’s not able to run it. On another note, it’s best to put it the same instead of what we just tried as it would be confusing for other programmers to see and be seems as lazy.
 there are other more tag and I will post a few screenshot of it as a reference&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Lesson3.1/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼
 Below is some of the tag reference and their descriptions commonly use in HTML documents.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.1/Photo6.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo6.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And these are some of the attributes and descriptions use in HTML too, attributes provide additional information for HTML documents.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Lesson3.1/Photo7.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo7.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/Lesson3.1/Photo8.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼{: height=”350px” width=”250px”}&lt;/p&gt;
 
 &lt;p&gt;For now we will focus on other things, later on I will add in attributes and explain them as we add them in.
 Anyway, i will try out some simple stuff that I mention and I will add in more of the stuff that I learn as we go on step by step and try to keep it easier to understand.&lt;/p&gt;
