@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-26T00:03:09+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-01-26T00:30:10+08:00</updated><id>//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-42-pushing-content-to-jekyll-learning-to-push-your-content-into-your-static-website&quot;&gt;Lesson 4.2 pushing content to Jekyll-learning to push your content into your static website&lt;/h2&gt;
@@ -113,7 +113,7 @@ online but it didn’t work
 &lt;p&gt;￼&lt;/p&gt;
 
 &lt;p&gt;￼
-So it works! &lt;strong&gt;after&lt;/strong&gt; many mistake and problem, on a side note, one of the problem that has cause me many days was the loading of the image, first time is the url problem, second time is when I create the image folder in the wrong place, the third time is when i’ve overlook a very very basic mistake, which is the first letter of my image file is capitalise but not in my content that I wrote.&lt;/p&gt;</content><summary type="html">Lesson 4.2 Eddie programming lesson</summary></entry><entry><title type="html">Markdown Syntex</title><link href="http://localhost:4000/2017/01/11/markdown-syntex.html" rel="alternate" type="text/html" title="Markdown Syntex" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/11/markdown-syntex</id><content type="html" xml:base="http://localhost:4000/2017/01/11/markdown-syntex.html">&lt;h1 id=&quot;hello-world&quot;&gt;hello world&lt;/h1&gt;
+So it works! &lt;strong&gt;after&lt;/strong&gt; many mistake and problem, on a side note, one of the problem that has cause me many days was the loading of the image, first time is the url problem, second time is when I create the image folder in the wrong place, the third time is when i’ve overlook a very very basic mistake, which is the first letter of my image file is capitalise but not in my content that I wrote.&lt;/p&gt;</content><summary type="html">Lesson 4.2 Eddie programming lesson</summary></entry><entry><title type="html">Markdown Syntex</title><link href="/2017/01/11/markdown-syntex.html" rel="alternate" type="text/html" title="Markdown Syntex" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>/2017/01/11/markdown-syntex</id><content type="html" xml:base="/2017/01/11/markdown-syntex.html">&lt;h1 id=&quot;hello-world&quot;&gt;hello world&lt;/h1&gt;
 
 &lt;h2 id=&quot;hello-world-1&quot;&gt;hello world&lt;/h2&gt;
 
@@ -161,7 +161,7 @@ So it works! &lt;strong&gt;after&lt;/strong&gt; many mistake and problem, on a s
       &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><summary type="html">hello world</summary></entry><entry><title type="html">Lesson 4.1</title><link href="http://localhost:4000/2017/01/11/lesson-4.1.html" rel="alternate" type="text/html" title="Lesson 4.1" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/11/lesson-4.1</id><content type="html" xml:base="http://localhost:4000/2017/01/11/lesson-4.1.html">&lt;p&gt;Lesson 4.1 : Eddie programming lesson&lt;/p&gt;
+&lt;/table&gt;</content><summary type="html">hello world</summary></entry><entry><title type="html">Lesson 4.1</title><link href="/2017/01/11/lesson-4.1.html" rel="alternate" type="text/html" title="Lesson 4.1" /><published>2017-01-11T00:00:00+08:00</published><updated>2017-01-11T00:00:00+08:00</updated><id>/2017/01/11/lesson-4.1</id><content type="html" xml:base="/2017/01/11/lesson-4.1.html">&lt;p&gt;Lesson 4.1 : Eddie programming lesson&lt;/p&gt;
 
 &lt;p&gt;Lesson 4.1 : Jekyll- introduction to Jekyll and markdown&lt;/p&gt;
 
@@ -243,7 +243,7 @@ Lets copy and paste the table here and try it out.&lt;/p&gt;
 
 &lt;p&gt;￼&lt;/p&gt;
 
-&lt;p&gt;As you can see , writing in markdown is really really simple, and it’s understandable. if a guy like me can do it,  i guess anybody can do it too=)&lt;/p&gt;</content><summary type="html">Lesson 4.1 : Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.7</title><link href="http://localhost:4000/2017/01/08/lesson-3.7.html" rel="alternate" type="text/html" title="Lesson 3.7" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.7</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.7.html">&lt;h1 id=&quot;lesson-37-eddie-programming-lesson&quot;&gt;Lesson 3.7 Eddie programming lesson&lt;/h1&gt;
+&lt;p&gt;As you can see , writing in markdown is really really simple, and it’s understandable. if a guy like me can do it,  i guess anybody can do it too=)&lt;/p&gt;</content><summary type="html">Lesson 4.1 : Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.7</title><link href="/2017/01/08/lesson-3.7.html" rel="alternate" type="text/html" title="Lesson 3.7" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>/2017/01/08/lesson-3.7</id><content type="html" xml:base="/2017/01/08/lesson-3.7.html">&lt;h1 id=&quot;lesson-37-eddie-programming-lesson&quot;&gt;Lesson 3.7 Eddie programming lesson&lt;/h1&gt;
 
 &lt;h2 id=&quot;lesson-37-inserting-table-how-to-insert-table-into-html-and-style-it&quot;&gt;Lesson 3.7 inserting table-how to insert table into html and style it&lt;/h2&gt;
 
@@ -298,7 +298,7 @@ This one above I type in the wrong place for the row number, unfortunately I for
 &lt;p&gt;Beside bootstrap, there are many others open source javascript for us to use, we just have to google it, I have found some online, maybe for our next minute we can give it a try.&lt;/p&gt;
 
 &lt;p&gt;￼
-￼&lt;/p&gt;</content><summary type="html">Lesson 3.7 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.6</title><link href="http://localhost:4000/2017/01/08/lesson-3.6.html" rel="alternate" type="text/html" title="Lesson 3.6" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.6</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.6.html">&lt;h1 id=&quot;lesson-36-eddie-programming-lesson&quot;&gt;Lesson 3.6 Eddie programming lesson&lt;/h1&gt;
+￼&lt;/p&gt;</content><summary type="html">Lesson 3.7 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.6</title><link href="/2017/01/08/lesson-3.6.html" rel="alternate" type="text/html" title="Lesson 3.6" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>/2017/01/08/lesson-3.6</id><content type="html" xml:base="/2017/01/08/lesson-3.6.html">&lt;h1 id=&quot;lesson-36-eddie-programming-lesson&quot;&gt;Lesson 3.6 Eddie programming lesson&lt;/h1&gt;
 
 &lt;h2 id=&quot;lesson-36-introduction-to-javascript--understanding-javascript-and-using-it&quot;&gt;Lesson 3.6 introduction to JavaScript- understanding JavaScript and using it.&lt;/h2&gt;
 
@@ -350,7 +350,7 @@ and see what would show.&lt;/p&gt;
 
 &lt;p&gt;￼
 ￼
-￼&lt;/p&gt;</content><summary type="html">Lesson 3.6 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.5</title><link href="http://localhost:4000/2017/01/08/lesson-3.5.html" rel="alternate" type="text/html" title="Lesson 3.5" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.5</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.5.html">&lt;h1 id=&quot;lesson-35-eddie-programming-lesson&quot;&gt;Lesson 3.5 Eddie programming lesson&lt;/h1&gt;
+￼&lt;/p&gt;</content><summary type="html">Lesson 3.6 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.5</title><link href="/2017/01/08/lesson-3.5.html" rel="alternate" type="text/html" title="Lesson 3.5" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>/2017/01/08/lesson-3.5</id><content type="html" xml:base="/2017/01/08/lesson-3.5.html">&lt;h1 id=&quot;lesson-35-eddie-programming-lesson&quot;&gt;Lesson 3.5 Eddie programming lesson&lt;/h1&gt;
 
 &lt;h2 id=&quot;lesson-35-inserting-images-into-html-documents-how-to-insert-and-style-image-in-html-documents&quot;&gt;Lesson 3.5 inserting images into HTML documents-how to insert and style image in HTML documents&lt;/h2&gt;
 
@@ -419,9 +419,10 @@ Just as you can style your text in HTML, you can do the same with images using w
 
 &lt;p&gt;￼&lt;/p&gt;
 
-&lt;p&gt;And its done for now, I will add in different things like button and table and I will find other alternative beside bootstrap to use and try how things look too&lt;/p&gt;</content><summary type="html">Lesson 3.5 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.4</title><link href="http://localhost:4000/2017/01/08/lesson-3.4.html" rel="alternate" type="text/html" title="Lesson 3.4" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.4</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.4.html">&lt;h1 id=&quot;lesson-34-eddie-programming-lesson&quot;&gt;Lesson 3.4 Eddie programming lesson&lt;/h1&gt;
+&lt;p&gt;And its done for now, I will add in different things like button and table and I will find other alternative beside bootstrap to use and try how things look too&lt;/p&gt;</content><summary type="html">Lesson 3.5 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.4 Different Type Of Fonts Styling Using Fonts And Attribute With Internal Css</title><link href="/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html" rel="alternate" type="text/html" title="Lesson 3.4 Different Type Of Fonts Styling Using Fonts And Attribute With Internal Css" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS</id><content type="html" xml:base="/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-34-eddie-programming-lesson&quot;&gt;Lesson 3.4 Eddie programming lesson&lt;/h1&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;lesson-34--different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-css&quot;&gt;Lesson 3.4 : different type of fonts-styling using fonts and attribute with internal CSS&lt;/h2&gt;
+&lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-34--different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-css&quot;&gt;Lesson 3.4 : different type of fonts-styling using fonts and attribute with internal CSS&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;different fonts available&lt;/li&gt;
@@ -430,83 +431,96 @@ Just as you can style your text in HTML, you can do the same with images using w
 
 &lt;p&gt;Like Color, fonts can be added to our HTML document in many ways, and as I mentioned before there are different type of font(font-family which is for different type of text, font-size which is for the size of your text and text-align in which you can align your text where you want it to be). Of cause there is also HTML formatting elements which you can use but we will get to that later.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.4/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I have already tried some of the font from my macbook and took a screenshot of it for you to see how it looks like, and I will show you stuff from the website too as a reference.
 For choosing which type of wording you want, you can use font-family.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.4/Photo2.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.4/Photo3.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;For text size you can use font-size.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.4/Photo4.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼
-note in a HTML document you can adjust not just text size, you can even adjust the size of image too, I will talk about it later on when we get to adding image in HTML&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.4/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼&lt;strong&gt;note&lt;/strong&gt; in a HTML document you can adjust not just text size, you can even adjust the size of image too, I will talk about it later on when we get to adding image in HTML&lt;/p&gt;
 
 &lt;p&gt;And for alignments of text in the document you can use text-align.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.4/Photo6.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.4/Photo7.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now that I have shown you those from the website, I will show you those that I have tried on my macbook.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo8.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.4/Photo9.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Note that I have also use internal CSS in this, and adding in CSS border in the &amp;lt;head&amp;gt; section within &lt;style&gt; element, and as previously mentioned internal CSS is use to define a style for a single HTML page, that's why it can save a lot of trouble so you don't have to do it one by one.&lt;/style&gt;&lt;/p&gt;
+&lt;p&gt;￼
+&lt;strong&gt;Note&lt;/strong&gt; that I have also use internal CSS in this, and adding in CSS border in the head section within style element, and as previously mentioned internal CSS is use to define a style for a single HTML page, that’s why it can save a lot of trouble so you don’t have to do it one by one.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.4/Photo10.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼
 And if you don’t want the space within the border to be too wide you can add in CSS padding into it.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo11.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo12.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.4/Photo13.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼
 And then there is also CSS margin which define the space outside of the border.&lt;/p&gt;
 
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo14.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;￼
-￼&lt;/p&gt;
+&lt;img src=&quot;/images/Lesson3.4/Photo15.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼
+&lt;img src=&quot;/images/Lesson3.4/Photo16.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I know that my html documents is a little messy, but you can see that just inside one documents I have, added a lot of things, inline CSS, internal CSS, CSS fonts, colors, background color, CSS border, padding, margin etc( for the external CSS we will hold that first and talk about it later)&lt;/p&gt;
+&lt;p&gt;I know that my html documents is a little messy, but you can see that just inside one documents I have, added a lot of things, inline CSS, internal CSS, CSS fonts, colors, background color, CSS border, padding, margin etc (for the external CSS we will hold that first and talk about it later).
+Anyway when I just said that beside using font family, that you can also use formatting inside the documents, it is like font but different. you should notice that inside my html document I have this b elements, this is html text formatting, below are a list of the formatting elements available.&lt;/p&gt;
 
-&lt;p&gt;Anyway when I just said that beside using font family, that you can also use formatting inside the documents, it is like font but different. you should notice that inside my html document I have this &lt;b&gt;&lt;/b&gt; elements, this is html text formatting, below are a list of the formatting elements available.&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.4/Photo17.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lets try it out too.&lt;/p&gt;
 
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo18.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;￼
-￼&lt;/p&gt;
+&lt;img src=&quot;/images/Lesson3.4/Photo19.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And this is how you can use formatting, while we are at it lets try out the “id” and “class” attribute” when you want to style a single element you will use id attributes, when you want to edit multiple element you will use class attributes.&lt;/p&gt;
 
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo20.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;￼
-￼
-￼&lt;/p&gt;
+￼&lt;img src=&quot;/images/Lesson3.4/Photo21.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.4/Photo22.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;you can use id attribute to style your elements be it text or image, which we will get to later.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo23.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo24.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And lets try class attribute.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo25.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.4/Photo26.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.4/Photo27.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;For id you you must remember to put a # beside your id and for class it is a . Symbol. it doesn’t have to be just color, you can edit the size of your text or images, you just have to explore to see what else we can do with it=)&lt;/p&gt;</content><summary type="html">Lesson 3.4 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.3 Applying Internal Css Understanding How To Use Internal Css And The Different Elements And Attributes</title><link href="http://localhost:4000/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html" rel="alternate" type="text/html" title="Lesson 3.3 Applying Internal Css Understanding How To Use Internal Css And The Different Elements And Attributes" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html">&lt;p style=&quot;text-align: center&quot;&gt;#Lesson 3.3 Eddie programming lesson&lt;/p&gt;
+&lt;p&gt;For id you you must remember to put a # beside your id and for class it is a . Symbol. it doesn’t have to be just color, you can edit the size of your text or images, you just have to explore to see what else we can do with it=)&lt;/p&gt;</content><summary type="html">Lesson 3.4 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.3 Applying Internal Css Understanding How To Use Internal Css And The Different Elements And Attributes</title><link href="/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html" rel="alternate" type="text/html" title="Lesson 3.3 Applying Internal Css Understanding How To Use Internal Css And The Different Elements And Attributes" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes</id><content type="html" xml:base="/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html">&lt;p style=&quot;text-align: center&quot;&gt;#Lesson 3.3 Eddie programming lesson&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-33-applying-internal-css--understanding-how-to-use-internal-css-and-the-different-elements-and-attributes&quot;&gt;Lesson 3.3 applying internal CSS- understanding how to use internal CSS and the different elements and attributes&lt;/h2&gt;
@@ -542,7 +556,7 @@ elements usually consist of a start tag and end tag.&lt;/p&gt;
 &lt;p&gt;￼
 &lt;img src=&quot;/images/Lesson3.3/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We can do the same thing with fonts like how we do with color, I will talk about fonts later on and once everything has been explain, we will try out everything on the macbook in one html documents=)&lt;/p&gt;</content><summary type="html">#Lesson 3.3 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.2 Ways Of Applying Css Styling Our Html Documents Using Inline Css</title><link href="http://localhost:4000/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS.html" rel="alternate" type="text/html" title="Lesson 3.2 Ways Of Applying Css Styling Our Html Documents Using Inline Css" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-32-eddie-programming-lesson&quot;&gt;Lesson 3.2 Eddie programming lesson&lt;/h1&gt;
+&lt;p&gt;We can do the same thing with fonts like how we do with color, I will talk about fonts later on and once everything has been explain, we will try out everything on the macbook in one html documents=)&lt;/p&gt;</content><summary type="html">#Lesson 3.3 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.2 Ways Of Applying Css Styling Our Html Documents Using Inline Css</title><link href="/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS.html" rel="alternate" type="text/html" title="Lesson 3.2 Ways Of Applying Css Styling Our Html Documents Using Inline Css" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS</id><content type="html" xml:base="/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-32-eddie-programming-lesson&quot;&gt;Lesson 3.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-32--ways-of-applying-css--styling-our-html-documents-using-inline-csscolor&quot;&gt;Lesson 3.2 : ways of applying CSS -styling our HTML documents using inline CSS(Color)&lt;/h2&gt;
@@ -618,7 +632,7 @@ The third way to specify Color is using hex value though I did not learn about i
 
 &lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.2/Photo16.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Ok and it works! So things aren’t really that difficult since a lot of stuff we can google it online as long as you know which to find.&lt;/p&gt;</content><summary type="html">Lesson 3.2 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.1 Introduction To Html Understanding Html And How Is Webpages Created</title><link href="http://localhost:4000/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created.html" rel="alternate" type="text/html" title="Lesson 3.1 Introduction To Html Understanding Html And How Is Webpages Created" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-31-eddie-programming-lesson&quot;&gt;Lesson 3.1 Eddie programming lesson&lt;/h1&gt;
+&lt;p&gt;Ok and it works! So things aren’t really that difficult since a lot of stuff we can google it online as long as you know which to find.&lt;/p&gt;</content><summary type="html">Lesson 3.2 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.1 Introduction To Html Understanding Html And How Is Webpages Created</title><link href="/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created.html" rel="alternate" type="text/html" title="Lesson 3.1 Introduction To Html Understanding Html And How Is Webpages Created" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created</id><content type="html" xml:base="/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-31-eddie-programming-lesson&quot;&gt;Lesson 3.1 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-31--introduction-to-html-understanding-html-and-how-is-webpages-created&quot;&gt;Lesson 3.1 : introduction to HTML-understanding HTML and how is webpages created&lt;/h2&gt;
