@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T00:42:45+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T01:00:24+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -298,9 +298,10 @@ This one above I type in the wrong place for the row number, unfortunately I for
 &lt;p&gt;Beside bootstrap, there are many others open source javascript for us to use, we just have to google it, I have found some online, maybe for our next minute we can give it a try.&lt;/p&gt;
 
 &lt;p&gt;￼
-￼&lt;/p&gt;</content><summary type="html">Lesson 3.7 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.6</title><link href="http://localhost:4000/2017/01/08/lesson-3.6.html" rel="alternate" type="text/html" title="Lesson 3.6" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.6</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.6.html">&lt;h1 id=&quot;lesson-36-eddie-programming-lesson&quot;&gt;Lesson 3.6 Eddie programming lesson&lt;/h1&gt;
+￼&lt;/p&gt;</content><summary type="html">Lesson 3.7 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.6</title><link href="http://localhost:4000/2017/01/08/lesson-3.6.html" rel="alternate" type="text/html" title="Lesson 3.6" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.6</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.6.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-36-eddie-programming-lesson&quot;&gt;Lesson 3.6 Eddie programming lesson&lt;/h1&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;lesson-36-introduction-to-javascript--understanding-javascript-and-using-it&quot;&gt;Lesson 3.6 introduction to JavaScript- understanding JavaScript and using it.&lt;/h2&gt;
+&lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-36-introduction-to-javascript--understanding-javascript-and-using-it&quot;&gt;Lesson 3.6 introduction to JavaScript- understanding JavaScript and using it.&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;understanding bootstrap/open source javascript&lt;/li&gt;
@@ -309,48 +310,65 @@ This one above I type in the wrong place for the row number, unfortunately I for
 
 &lt;p&gt;Continuing from where we left off, we have actually started to use JavaScript in our HTML, and its bootstrap. Bootstraps is an open source JavaScript framework which has all kind of different CSS available and there are many other options besides bootstrap, from what I’ve learnt and remember, HTML is the building block, CSS is for styling our HTML document and JavaScript is for interaction, to provide interactivity for our web pages. If you notice from my previous note, there have been mention of bootstrap and CDN, bootstrap I have already explained so Basically if you want to load your JavaScript and CSS you will need CDN in order to do that, CDN is short for content delivery network, which you should get from the name itself, this is what bootstrap/open source javascript and the CDN looks like is this.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.6/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo2.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Of cause there are other alternative beside bootstrap, we will try them out next time so for now we will stick to using bootstrap first. lets try to insert the different type of buttons on our current html document, the available type of buttons are below.
-￼&lt;/p&gt;
+&lt;p&gt;￼
+Of cause there are other alternative beside bootstrap, we will try them out next time so for now we will stick to using bootstrap first. lets try to insert the different type of buttons on our current html document, the available type of buttons are below.&lt;/p&gt;
 
-&lt;p&gt;To get the type you want, you just need to add in “class” inside the button elements.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo3.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼
+To get the type you want, you just need to add in “class” inside the button elements.&lt;/p&gt;
 
-&lt;p&gt;And after you’re done it would look like this.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo4.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+And after you’re done it would look like this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼
 This time we will insert a total of 4 buttons.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;And if that is too small, you can actually change the size of it to make it more noticeable&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;So lets try it out&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;And lets test out the  other different ones too&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;Now even though you have added the button, it still can’t do anything,  nothing is going to happen if you try to click it, you have to assign a function to it. Let try to assign a function to it
-and see what would show.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo6.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼
-￼
-￼&lt;/p&gt;</content><summary type="html">Lesson 3.6 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.5 Inserting Images Into Html Documents How To Insert And Style Image In Html Documents</title><link href="http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html" rel="alternate" type="text/html" title="Lesson 3.5 Inserting Images Into Html Documents How To Insert And Style Image In Html Documents" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-35-eddie-programming-lesson&quot;&gt;Lesson 3.5 Eddie programming lesson&lt;/h1&gt;
+&lt;img src=&quot;/images/Lesson3.6/Photo7.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+And if that is too small, you can actually change the size of it to make it more noticeable&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo8.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+So lets try it out&lt;/p&gt;
+
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.6/Photo9.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo10.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+And lets test out the  other different ones too&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo11.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+&lt;img src=&quot;/images/Lesson3.6/Photo12.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now even though you have added the button, it still can’t do anything,  nothing is going to happen if you try to click it, you have to assign a function to it.
+ Let try to assign a function to it
+ and see what would show.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.6/Photo13.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.6/Photo14.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+&lt;img src=&quot;/images/Lesson3.6/Photo15.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;</content><summary type="html">Lesson 3.6 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.5 Inserting Images Into Html Documents How To Insert And Style Image In Html Documents</title><link href="http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html" rel="alternate" type="text/html" title="Lesson 3.5 Inserting Images Into Html Documents How To Insert And Style Image In Html Documents" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-35-eddie-programming-lesson&quot;&gt;Lesson 3.5 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-35-inserting-images-into-html-documents-how-to-insert-and-style-image-in-html-documents&quot;&gt;Lesson 3.5 inserting images into HTML documents-how to insert and style image in HTML documents&lt;/h2&gt;
