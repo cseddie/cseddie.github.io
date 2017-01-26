@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T00:31:21+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T00:38:24+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -362,12 +362,11 @@ and see what would show.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;In this topic we are going to talk about how to insert different images into our HTML document, the different type of images you can insert in is jpg images, gif images and Png images, for now we will focus on jpg images, an image is define by the image element, this is an empty tag and it does not have a closing tag but it does contain attributes inside it, namely “src”, this attribute specifies the url(web address)for your image, and the 2nd attribute “alt”, this attribute provides a alternate text for an image when the user for some reason are not able to view it.
-￼
-&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.5/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+￼&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo2.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.5/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼{: height=”350px” width=”250px”}&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.5/Photo2.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As you can see in the above image of the text that is shown in place of the image.
 Just as you can style your text in HTML, you can do the same with images using width and height, there are two ways to do this, the first being the style attribute, with the value specified in px.&lt;/p&gt;
@@ -378,11 +377,9 @@ Just as you can style your text in HTML, you can do the same with images using w
 
 &lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo4.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼￼{: height=”350px” width=”250px”}&lt;/p&gt;
+&lt;p&gt;￼{: height=”350px” width=”250px”}&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;{: height=”350px” width=”250px”}￼&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.5/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;But from what I’ve found, using the style attribute would be more better as it will prevent other style sheet from changing the original size of the picture.&lt;/p&gt;
 
@@ -396,7 +393,7 @@ Just as you can style your text in HTML, you can do the same with images using w
 
 &lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo8.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼￼{: height=”350px” width=”250px”}&lt;/p&gt;
+&lt;p&gt;￼{: height=”350px” width=”250px”}&lt;/p&gt;
 
 &lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.5/Photo9.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
