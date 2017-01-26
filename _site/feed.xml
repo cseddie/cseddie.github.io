@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T01:06:15+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T01:51:45+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -243,9 +243,10 @@ Lets copy and paste the table here and try it out.&lt;/p&gt;
 
 &lt;p&gt;￼&lt;/p&gt;
 
-&lt;p&gt;As you can see , writing in markdown is really really simple, and it’s understandable. if a guy like me can do it,  i guess anybody can do it too=)&lt;/p&gt;</content><summary type="html">Lesson 4.1 : Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.7</title><link href="http://localhost:4000/2017/01/08/lesson-3.7.html" rel="alternate" type="text/html" title="Lesson 3.7" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.7</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.7.html">&lt;h1 id=&quot;lesson-37-eddie-programming-lesson&quot;&gt;Lesson 3.7 Eddie programming lesson&lt;/h1&gt;
+&lt;p&gt;As you can see , writing in markdown is really really simple, and it’s understandable. if a guy like me can do it,  i guess anybody can do it too=)&lt;/p&gt;</content><summary type="html">Lesson 4.1 : Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.7 Inserting Table How To Insert Table Into Html And Style It</title><link href="http://localhost:4000/2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html" rel="alternate" type="text/html" title="Lesson 3.7 Inserting Table How To Insert Table Into Html And Style It" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-37-eddie-programming-lesson&quot;&gt;Lesson 3.7 Eddie programming lesson&lt;/h1&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;lesson-37-inserting-table-how-to-insert-table-into-html-and-style-it&quot;&gt;Lesson 3.7 inserting table-how to insert table into html and style it&lt;/h2&gt;
+&lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-37-inserting-table-how-to-insert-table-into-html-and-style-it&quot;&gt;Lesson 3.7 inserting table-how to insert table into html and style it&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;introduction to the different elements and attributes for table&lt;/li&gt;
@@ -256,49 +257,69 @@ Lets copy and paste the table here and try it out.&lt;/p&gt;
 
 &lt;p&gt;Continuing from where we left off, this time we are going to learn how to insert a table into our webpage, using the different elements and attributes and looking at the different format for the table available.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.7/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;￼
-￼&lt;/p&gt;
+&lt;img src=&quot;/images/Lesson3.7/Photo2.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Above is the different elements and attributes definition and their usage, later on when we start on our table, I will explain it to you.
 Now let’s look at the available table format in bootstrap.&lt;/p&gt;
 
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.7/Photo3.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;￼
-￼
-￼
-￼&lt;/p&gt;
+￼&lt;img src=&quot;/images/Lesson3.7/Photo4.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.7/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.7/Photo6.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;we are going to use the contextual class table and use the different color available to style it. this is going to look confusing bit as we are going to introduce table elements and the attribute, but we will get it as we go on.
 So first we go back into our previous HTML document, type in the &amp;lt;table&amp;gt; elements, in the opening tag we have to add the base class=”table”, as the explanation said above, it’s a little redundant but because of the widespread use, they have opted to isolate their custom style.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.7/Photo7.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Anyway, we should know by now that in a HTML document, different elements stand for different things, and that there’s a hierarchy, for example, first come &amp;lt;html &amp;gt;, &amp;lt;head&amp;gt; then the &amp;lt;body&amp;gt;. Well same things apply for table, first there is &amp;lt;table&amp;gt;, &amp;lt;thead &amp;gt;,&amp;lt;tbody &amp;gt; and then &amp;lt;tfoot&amp;gt;, in order for your webpage to load properly, you have to get your hierarchy correct.&lt;/p&gt;
+&lt;p&gt;Anyway, we should know by now that in a HTML document, different elements stand for different things, and that there’s a hierarchy, for example, first come html, head then the body. Well same things apply for table, first there is table, thead, tbody and then tfoot in order for your webpage to load properly, you have to get your hierarchy correct.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;After you have written in &amp;lt;table&amp;gt; and its class, you can type in &amp;lt;thead&amp;gt;, which is use to group header content,  inside it you have to type in &amp;lt;th&amp;gt; for the header content, once the header content is done, you can proceed with the table body, in which &amp;lt;tbody&amp;gt; is the element, inside the body you will have to type in the same &amp;lt;tr&amp;gt; for the table row, in our case since we are styling our table with the different color, our &amp;lt;tr&amp;gt; will need to have the base class of the color, and one that is done, our column content will have to be put in the &amp;lt;td&amp;gt; element. you can look at my html as a reference.&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.7/Photo8.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.7/Photo9.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After you have written in table and its class, you can type in thead, which is use to group header content,  inside it you have to type in th for the header content, once the header content is done, you can proceed with the table body, in which tbody is the element, inside the body you will have to type in the same tr for the table row, in our case since we are styling our table with the different color, our tr will need to have the base class of the color, and one that is done, our column content will have to be put in the td element. you can look at my html as a
+reference.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.7/Photo10.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After this is all done let”s save it and take a look at how our table looks like.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;and it looks great=) anyway i tried a few times before I get to make a proper table, previously I type in wrongly and it turn out not so great, but I will still put in a screenshots as a reference to show how important we have to type in correctly or get our hierarchy correction order for the browser to display it correctly.&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.7/Photo11.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼
-￼
+and it looks great=) anyway i tried a few times before I get to make a proper table, previously I type in wrongly and it turn out not so great, but I will still put in a screenshots as a reference to show how important we have to type in correctly or get our hierarchy correction order for the browser to display it correctly.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.7/Photo12.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.7/Photo13.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
 This one above I forgot to put in the numbering.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.7/Photo14.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼
 This one above I type in the wrong place for the row number, unfortunately I forgot to take a screenshot of it but things turn a little ugly, the table was a little jumbled up. but still its good, as I managed to figure things out with some reference and some mistake.&lt;/p&gt;
 
 &lt;p&gt;Beside bootstrap, there are many others open source javascript for us to use, we just have to google it, I have found some online, maybe for our next minute we can give it a try.&lt;/p&gt;
 
-&lt;p&gt;￼
-￼&lt;/p&gt;</content><summary type="html">Lesson 3.7 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.6 Introduction To Javascript Understanding Javascript And Using It</title><link href="http://localhost:4000/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it.html" rel="alternate" type="text/html" title="Lesson 3.6 Introduction To Javascript Understanding Javascript And Using It" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-36-eddie-programming-lesson&quot;&gt;Lesson 3.6 Eddie programming lesson&lt;/h1&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.7/Photo15.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.7/Photo16.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;</content><summary type="html">Lesson 3.7 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.6 Introduction To Javascript Understanding Javascript And Using It</title><link href="http://localhost:4000/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it.html" rel="alternate" type="text/html" title="Lesson 3.6 Introduction To Javascript Understanding Javascript And Using It" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-36-eddie-programming-lesson&quot;&gt;Lesson 3.6 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-36-introduction-to-javascript--understanding-javascript-and-using-it&quot;&gt;Lesson 3.6 introduction to JavaScript- understanding JavaScript and using it.&lt;/h2&gt;
