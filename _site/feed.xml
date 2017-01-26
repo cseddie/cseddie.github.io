@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-26T23:49:04+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T00:28:11+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -350,9 +350,10 @@ and see what would show.&lt;/p&gt;
 
 &lt;p&gt;￼
 ￼
-￼&lt;/p&gt;</content><summary type="html">Lesson 3.6 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.5</title><link href="http://localhost:4000/2017/01/08/lesson-3.5.html" rel="alternate" type="text/html" title="Lesson 3.5" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.5</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.5.html">&lt;h1 id=&quot;lesson-35-eddie-programming-lesson&quot;&gt;Lesson 3.5 Eddie programming lesson&lt;/h1&gt;
+￼&lt;/p&gt;</content><summary type="html">Lesson 3.6 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.5 Inserting Images Into Html Documents How To Insert And Style Image In Html Documents</title><link href="http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html" rel="alternate" type="text/html" title="Lesson 3.5 Inserting Images Into Html Documents How To Insert And Style Image In Html Documents" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-35-eddie-programming-lesson&quot;&gt;Lesson 3.5 Eddie programming lesson&lt;/h1&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;lesson-35-inserting-images-into-html-documents-how-to-insert-and-style-image-in-html-documents&quot;&gt;Lesson 3.5 inserting images into HTML documents-how to insert and style image in HTML documents&lt;/h2&gt;
+&lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-35-inserting-images-into-html-documents-how-to-insert-and-style-image-in-html-documents&quot;&gt;Lesson 3.5 inserting images into HTML documents-how to insert and style image in HTML documents&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;inserting image&lt;/li&gt;
@@ -360,64 +361,77 @@ and see what would show.&lt;/p&gt;
   &lt;li&gt;using an open source javascript to style images&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In this topic we are going to talk about how to insert different images into our HTML document, the different type of images you can insert in is jpg images, gif images and Png images, for now we will focus on jpg images, an image is define by the tag &lt;img /&gt;, this is an empty tag and it does not have a closing tag but it does contain attributes inside it, namely “src”, this attribute specifies the url(web address)for your image, and the 2nd attribute “alt”, this attribute provides a alternate text for an image when the user for some reason are not able to view it.
-￼&lt;/p&gt;
+&lt;p&gt;In this topic we are going to talk about how to insert different images into our HTML document, the different type of images you can insert in is jpg images, gif images and Png images, for now we will focus on jpg images, an image is define by the image element, this is an empty tag and it does not have a closing tag but it does contain attributes inside it, namely “src”, this attribute specifies the url(web address)for your image, and the 2nd attribute “alt”, this attribute provides a alternate text for an image when the user for some reason are not able to view it.
+￼
+&lt;img src=&quot;/images/Lesson3.5/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo2.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;As you can see in the above image of the text that is shown in place of the image.
+&lt;p&gt;￼
+As you can see in the above image of the text that is shown in place of the image.
 Just as you can style your text in HTML, you can do the same with images using width and height, there are two ways to do this, the first being the style attribute, with the value specified in px.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.5/Photo3.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The second way of doing it would be just using the width and height attribute.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo4.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
-
-&lt;p&gt;But from what I’ve found, using the style attribute would be more better as it will prevent other style sheet from changing the original size of the picture.&lt;/p&gt;
+&lt;p&gt;￼￼
+&lt;img src=&quot;/images/Lesson3.5/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;￼
-￼&lt;/p&gt;
+But from what I’ve found, using the style attribute would be more better as it will prevent other style sheet from changing the original size of the picture.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.5/Photo6.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+￼&lt;img src=&quot;/images/Lesson3.5/Photo7.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Below is a summary for images and the tags for it.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo8.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼￼
+&lt;img src=&quot;/images/Lesson3.5/Photo9.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So now we will try it out from our macbook and use an open source javascript framework called bootstrap which has all kinds of different format for images, tables and buttons, I will explain what is javascript and the rest later on, for now lets try it and see what is does.&lt;/p&gt;
 
-&lt;p&gt;As you know, the &amp;lt;head&amp;gt; section is where we write our css and javascript, so we go into bootstrap CDN and copy and paste the link for the complete css into our html document,&lt;/p&gt;
+&lt;p&gt;As you know, the head section is where we write our css and javascript, so we go into bootstrap CDN and copy and paste the link for the complete css into our html document&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.5/Photo10.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And we can go and find the images that we want to insert in using the inspect elements.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo11.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼￼
+&lt;img src=&quot;/images/Lesson3.5/Photo12.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After thats done, lets save and try to load.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lesson3.5/Photo13.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;And it work! Ok now lets try the different format for the images and lets adjust the size of it too as its too big, in this case we will use the internal css which which is also another way to style our html, it uses the &lt;style&gt; elements.&lt;/style&gt;&lt;/p&gt;
+&lt;p&gt;￼￼&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;And it work! Ok now lets try the different format for the images and lets adjust the size of it too as its too big, in this case we will use the internal css which which is also another way to style our html, it uses the style elements.&lt;/p&gt;
 
-&lt;p&gt;We will try the using img-circle, to do that it says that we will need to add in class to the &lt;img /&gt; elements.&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.5/Photo14.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;We will try the using img-circle, to do that it says that we will need to add in class to the image elements.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.5/Photo15.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;now lets adjust the size to 30% for the width and height.&lt;/p&gt;
+&lt;p&gt;￼
+&lt;img src=&quot;/images/Lesson3.5/Photo16.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼
+now lets adjust the size to 30% for the width and height.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.5/Photo17.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;￼
+&lt;img src=&quot;/images/Lesson3.5/Photo18.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And its done for now, I will add in different things like button and table and I will find other alternative beside bootstrap to use and try how things look too&lt;/p&gt;</content><summary type="html">Lesson 3.5 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.4 Different Type Of Fonts Styling Using Fonts And Attribute With Internal Css</title><link href="http://localhost:4000/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html" rel="alternate" type="text/html" title="Lesson 3.4 Different Type Of Fonts Styling Using Fonts And Attribute With Internal Css" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-34-eddie-programming-lesson&quot;&gt;Lesson 3.4 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
