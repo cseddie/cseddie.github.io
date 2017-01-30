@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-29T18:55:34+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-30T14:52:31+08:00</updated><id>http://localhost:4000//</id><title type="html">Eddie Aw</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Sourcetree Pushing Content Through Sourcetree</title><link href="http://localhost:4000/2017/01/29/sourceTree-pushing-content-through-sourceTree.html" rel="alternate" type="text/html" title="Sourcetree Pushing Content Through Sourcetree" /><published>2017-01-29T00:00:00+08:00</published><updated>2017-01-29T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/29/sourceTree-pushing-content-through-sourceTree</id><content type="html" xml:base="http://localhost:4000/2017/01/29/sourceTree-pushing-content-through-sourceTree.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-51-eddie-programming-lesson&quot;&gt;lesson 5.1 Eddie programming lesson&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-51-sourcetree--pushing-content-through-sourcetree&quot;&gt;Lesson 5.1 sourceTree- pushing content through sourceTree&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;what is sourceTree&lt;/li&gt;
+  &lt;li&gt;another way of pushing your content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Previously i have told you how to push our content into the webpage through terminal, that is one way of doing it, there is also another way of pushing it which is through sourceTree.&lt;/p&gt;</content><summary type="html">lesson 5.1 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title><link href="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html" rel="alternate" type="text/html" title="Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website" /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll--learning-to-push-your-content-into-your-static-website</id><content type="html" xml:base="http://localhost:4000/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-42-pushing-content-to-jekyll-learning-to-push-your-content-into-your-static-website&quot;&gt;Lesson 4.2 pushing content to Jekyll-learning to push your content into your static website&lt;/h2&gt;
@@ -703,67 +713,4 @@ The third way to specify Color is using hex value though I did not learn about i
 
 &lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.2/Photo16.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Ok and it works! So things aren’t really that difficult since a lot of stuff we can google it online as long as you know which to find.&lt;/p&gt;</content><summary type="html">Lesson 3.2 Eddie programming lesson</summary></entry><entry><title type="html">Lesson 3.1 Introduction To Html Understanding Html And How Is Webpages Created</title><link href="http://localhost:4000/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created.html" rel="alternate" type="text/html" title="Lesson 3.1 Introduction To Html Understanding Html And How Is Webpages Created" /><published>2017-01-08T00:00:00+08:00</published><updated>2017-01-08T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created</id><content type="html" xml:base="http://localhost:4000/2017/01/08/lesson-3.1-introduction-to-HTML-understanding-HTML-and-how-is-webpages-created.html">&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-31-eddie-programming-lesson&quot;&gt;Lesson 3.1 Eddie programming lesson&lt;/h1&gt;
-&lt;hr /&gt;
-
-&lt;h2 style=&quot;text-align: center&quot; id=&quot;lesson-31--introduction-to-html-understanding-html-and-how-is-webpages-created&quot;&gt;Lesson 3.1 : introduction to HTML-understanding HTML and how is webpages created&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;introduction to HTML&lt;/li&gt;
-  &lt;li&gt;html elements and their definition&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After my last lesson and some online research I learn a lot about HTML, CSS and JavaScript. For now we will talk about HTML and as we go along I will add in CSS and JavaScript.
-Ok so HTML basically stand for hyper text markup language, it is simply the building block for webpages,  after it’s written the computer will translate it into what and how we want it to be for the user/client to see.
-For a more detailed explanation you can look at the screenshot below.&lt;/p&gt;
-
-&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo1.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And another picture of what a HTML document look like.&lt;/p&gt;
-
-&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo2.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Another picture below to show you how the computer interpret it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo3.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you notice, inside a HTML document there are a lot of this bracket &amp;lt;&amp;gt; with character or wording inside, we call it HTML tag , don’t worry we will get to what they each mean as we go along the way.
-As most ppl will know h1 to h6 elements stands for the heading with h1 being the most important to h6 being the least.
-the p elements actually stands for the paragraph and as it is stated above, only those which is in the body elements will be shown when the browser interpret the html script.&lt;/p&gt;
-
-&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo4.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you notice, for every opening tag, there is a closing tag, it is important to remember to add in the closing tag, even though sometimes when you did not put in a closing tag, the computer will still display it correctly but it is best to not rely on this as there are times when error will still occur, so do make it a habit.&lt;/p&gt;
-
-&lt;p&gt;HTML tag (when you put tag ,always remember to put opening tag and closing tag)&lt;/p&gt;
-
-&lt;p&gt;Computers nowadays are more clever or less strict, an example would be from what i learn from our last lesson on heading, last time if we want the correct heading we have to put an opening tag and closing tag of h1 then only will the computer understand and give us what we want of the heading, but now computer are more advanced, for example if we want our heading to be h6, let’s say we put in h6 in front of h1 , it will understand and give us a heading of h6, but note that it’s only applicable when we put it in the opening tag and NOT the closing tag, i tried to do it and it’s not able to run it. On another note, it’s best to put it the same instead of what we just tried as it would be confusing for other programmers to see and be seems as lazy.
-there are other more tag and I will post a few screenshot of it as a reference&lt;/p&gt;
-
-&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo5.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;￼
-Below is some of the tag reference and their descriptions commonly use in HTML documents.&lt;/p&gt;
-
-&lt;p&gt;￼&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo6.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And these are some of the attributes and descriptions use in HTML too, attributes provide additional information for HTML documents.&lt;/p&gt;
-
-&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo7.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img height=&quot;350px&quot; width=&quot;250px&quot; src=&quot;/images/Lesson3.1/Photo8.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For now we will focus on other things, later on I will add in attributes and explain them as we add them in.
-Anyway, i will try out some simple stuff that I mention and I will add in more of the stuff that I learn as we go on step by step and try to keep it easier to understand.&lt;/p&gt;
-
-&lt;p&gt;￼&lt;img src=&quot;/images/Lesson3.1/Photo9.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/Lesson3.1/Photo10.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ok now that you know what does a heading look like,  lets add in some paragraph.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/Lesson3.1/Photo11.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/Lesson3.1/Photo12.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;after my last lesson and bit of research it’s actually not that hard to learn so long as you understand how it works, for now this will be it, I will add in color and font for my next minute.&lt;/p&gt;</content><summary type="html">Lesson 3.1 Eddie programming lesson</summary></entry></feed>
+&lt;p&gt;Ok and it works! So things aren’t really that difficult since a lot of stuff we can google it online as long as you know which to find.&lt;/p&gt;</content><summary type="html">Lesson 3.2 Eddie programming lesson</summary></entry></feed>
