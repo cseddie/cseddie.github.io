@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Eddie Aw 😬
 email: eddiekiwy@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that i learn along the way in my journey into the world of programming.
+description:  My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
