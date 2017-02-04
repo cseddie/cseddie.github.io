@@ -46,3 +46,5 @@
 ## 13/1/2017
 
 5.1 sourceTree- pushing content through sourceTree
+
+5.2 merge- merging your content on sourceTree
