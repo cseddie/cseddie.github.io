@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Eddie Aw
+email: your-email@domain.com
+description: My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.
+   #Write an awesome description for your new site here. You can edit this
+              #line in _config.yml. It will appear in your document head meta (for
+              #Google search results) and in your feed.xml site description.
+baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
