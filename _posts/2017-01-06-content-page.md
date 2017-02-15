@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "content page"
+date:   2017-01-06
+categories: jekyll update
+---
+
+
 # 0 Content Page
 
 ## 1  27/11/2016
