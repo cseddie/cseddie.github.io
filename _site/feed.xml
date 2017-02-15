@@ -5,8 +5,8 @@
     <description>My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Feb 2017 22:07:09 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Feb 2017 22:07:09 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2017 22:08:58 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 22:08:58 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -373,7 +373,7 @@ Lets try putting in the table too, (always remember that we can always copy and 
       </item>
     
       <item>
-        <title>Lesson 3.7 Inserting Table How To Insert Table Into Html And Style It</title>
+        <title>lesson-3.7 inserting table-how to insert table into html and style it</title>
         <description>&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-37-eddie-programming-lesson&quot;&gt;Lesson 3.7 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -452,10 +452,14 @@ This one above I type in the wrong place for the row number, unfortunately I for
 
 &lt;p&gt;￼&lt;/p&gt;
 </description>
-        <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html</guid>
+        <pubDate>Wed, 11 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000//jekyll/update/2017/01/11/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/11/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
