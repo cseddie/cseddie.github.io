@@ -695,8 +695,8 @@ h6 {
       /* Do not scale the image */
       object-position: center;
       /* Center the image within the element */
-      height: 176px;
-      width: 176px;
+      height: auto;
+      width: 100%;
       border-radius: 50%;
       opacity: 1;
       transition: 0.3s; }
