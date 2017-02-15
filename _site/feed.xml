@@ -5,8 +5,8 @@
     <description>My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Feb 2017 22:10:46 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Feb 2017 22:10:46 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2017 22:12:34 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 22:12:34 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -548,7 +548,7 @@ And lets test out the  other different ones too&lt;/p&gt;
       </item>
     
       <item>
-        <title>Lesson 3.5 Inserting Images Into Html Documents How To Insert And Style Image In Html Documents</title>
+        <title>lesson 3.5 inserting images into HTML documents-how to insert and style image in HTML documents</title>
         <description>&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-35-eddie-programming-lesson&quot;&gt;Lesson 3.5 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -631,9 +631,13 @@ now lets adjust the size to 30% for the width and height.&lt;/p&gt;
 &lt;p&gt;And its done for now, I will add in different things like button and table and I will find other alternative beside bootstrap to use and try how things look too&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html</guid>
+        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
