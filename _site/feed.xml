@@ -5,8 +5,8 @@
     <description>My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Feb 2017 22:17:54 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Feb 2017 22:17:54 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2017 22:20:17 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 22:20:17 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -758,7 +758,7 @@ Anyway when I just said that beside using font family, that you can also use for
       </item>
     
       <item>
-        <title>Lesson 3.3 Applying Internal Css Understanding How To Use Internal Css And The Different Elements And Attributes</title>
+        <title>lesson 3.3 applying internal CSS-understanding how to use internal CSS and the different elements and attributes</title>
         <description>&lt;p style=&quot;text-align: center&quot;&gt;#Lesson 3.3 Eddie programming lesson&lt;/p&gt;
 &lt;hr /&gt;
 
@@ -798,9 +798,13 @@ elements usually consist of a start tag and end tag.&lt;/p&gt;
 &lt;p&gt;We can do the same thing with fonts like how we do with color, I will talk about fonts later on and once everything has been explain, we will try out everything on the macbook in one html documents=)&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html</guid>
+        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
