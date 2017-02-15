@@ -5,8 +5,8 @@
     <description>My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Feb 2017 21:44:17 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Feb 2017 21:44:17 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2017 22:02:37 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 22:02:37 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -60,7 +60,7 @@ We will choose the master branch to push in and press ok and voila! Our reposito
       </item>
     
       <item>
-        <title>Lesson 4.2 Pushing Content To Jekyll  Learning To Push Your Content Into Your Static Website</title>
+        <title>Lesson 4.2-pushing content to Jekyll-learning-to-push your content into your static website</title>
         <description>&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-42-eddie-programming-lesson&quot;&gt;Lesson 4.2 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -184,9 +184,13 @@ And it works this time, now we can proceed to push our content, so first let us 
 &lt;p&gt;So it works! &lt;strong&gt;after&lt;/strong&gt; many mistake and problem, on a side note, one of the problem that has cause me many days was the loading of the image, first time is the url problem, second time is when I create the image folder in the wrong place, the third time is when i’ve overlook a very very basic mistake, which is the first letter of my image file is capitalise but not in my content that I wrote.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html</guid>
+        <link>http://localhost:4000//jekyll/update/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
