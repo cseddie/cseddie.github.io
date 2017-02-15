@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "markdown syntax"
+date:   2017-01-11
+categories: jekyll update
+---
+
 # hello world
 
 ## hello world
