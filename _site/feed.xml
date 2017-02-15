@@ -5,8 +5,8 @@
     <description>My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Feb 2017 22:04:45 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Feb 2017 22:04:45 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2017 22:07:09 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 22:07:09 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -258,7 +258,7 @@ And it works this time, now we can proceed to push our content, so first let us 
       </item>
     
       <item>
-        <title>Lesson 4.1 Jekyll Introduction To Jekyll And Markdown</title>
+        <title>Lesson 4.1 Jekyll-introduction-to Jekyll and markdown</title>
         <description>&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-41--eddie-programming-lesson&quot;&gt;Lesson 4.1 : Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -362,9 +362,13 @@ Lets try putting in the table too, (always remember that we can always copy and 
 &lt;p&gt;As you can see , writing in markdown is really really simple, and it’s understandable. if a guy like me can do it,  i guess anybody can do it too=)&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/11/lesson-4.1-Jekyll-introduction-to-Jekyll-and-markdown.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/11/lesson-4.1-Jekyll-introduction-to-Jekyll-and-markdown.html</guid>
+        <link>http://localhost:4000//jekyll/update/2017/01/11/lesson-4.1-Jekyll-introduction-to-Jekyll-and-markdown.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/11/lesson-4.1-Jekyll-introduction-to-Jekyll-and-markdown.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
