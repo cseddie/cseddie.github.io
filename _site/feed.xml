@@ -5,8 +5,8 @@
     <description>My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Feb 2017 22:15:33 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Feb 2017 22:15:33 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2017 22:17:54 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 22:17:54 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -642,7 +642,7 @@ now lets adjust the size to 30% for the width and height.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Lesson 3.4 Different Type Of Fonts Styling Using Fonts And Attribute With Internal Css</title>
+        <title>lesson 3.4 different type of fonts-styling using fonts and attribute with internal CSS</title>
         <description>&lt;h1 style=&quot;text-align: center&quot; id=&quot;lesson-34-eddie-programming-lesson&quot;&gt;Lesson 3.4 Eddie programming lesson&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -747,9 +747,13 @@ Anyway when I just said that beside using font family, that you can also use for
 &lt;p&gt;For id you you must remember to put a # beside your id and for class it is a . Symbol. it doesn’t have to be just color, you can edit the size of your text or images, you just have to explore to see what else we can do with it=)&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html</guid>
+        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
