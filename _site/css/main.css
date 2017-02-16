@@ -392,7 +392,7 @@ textarea:focus, textarea[type=text]:focus {
 /*------------------------------------------------------------
   Links
 ------------------------------------------------------------*/
-a {
+a.post-link {
   color: #1A77BD;
   text-decoration: underline; }
 
