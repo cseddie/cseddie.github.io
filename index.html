@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+ <div class="top card">
+    <a class="email" href="mailto:{{site.email}}">{{site.email}}</a>
+    <p class="description">{{ site.description }}</p>
+    <a href="about" class="btn">Read More</a>
+  </div>
+  <div class="posts card">
+      <div class="card-content white-text">
+      <span class="card-title">Posts</span>
+
+      <ul class="post-list">
+        {% assign counter = site.posts.size %}
+
+        {% for post in site.posts %}
+        <!-- {{ post.url | prepend: site.url }} -->
+        
+
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a class="post-link" href="{{ post.url | prepend: site.url }}"> {{ counter }}) {{ post.title }}</a>
+          </li>
+          {% assign counter = counter | minus: 1 %}
+        {% endfor %}
+      </ul>
+
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.url }}">via RSS</a></p>
+      </div>
+   </div>
+
+</div>

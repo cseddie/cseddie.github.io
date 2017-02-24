@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "content page"
+date:   2017-01-06
+categories: jekyll update
+---
+
+
 # 0 Content Page
 
 ## 1  27/11/2016
@@ -46,3 +54,5 @@
 ## 13/1/2017
 
 5.1 sourceTree- pushing content through sourceTree
+
+5.2 merge- merging your content on sourceTree
