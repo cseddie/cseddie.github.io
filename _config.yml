@@ -20,6 +20,9 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+clicky:
+  trackingid: 101029211
+
 
 gems:
   - jekyll-seo-tag
