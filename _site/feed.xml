@@ -3,10 +3,10 @@
   <channel>
     <title>Eddie Aw</title>
     <description>My name is Eddie Aw.🖖 I am a proud father of my daughter and a happy husband to my awesome wife.👨‍👩‍👧 I am new to programming and this blog is one of my long term projects. This blog provides information about the stuff that I learn along the way in my journey into the world of programming.</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Mar 2017 23:39:08 +0800</pubDate>
-    <lastBuildDate>Wed, 01 Mar 2017 23:39:08 +0800</lastBuildDate>
+    <link>http://cseddie.github.io//</link>
+    <atom:link href="http://cseddie.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 01 Mar 2017 23:53:03 +0800</pubDate>
+    <lastBuildDate>Wed, 01 Mar 2017 23:53:03 +0800</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -49,8 +49,8 @@ As usual, after you have edited or written your content in the text editor, we s
 We will choose the master branch to push in and press ok and voila! Our repository have been push in just as we done using terminal.✌️&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/29/Lesson-5.1-sourceTree-pushing-content-through-sourceTree.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/29/Lesson-5.1-sourceTree-pushing-content-through-sourceTree.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/29/Lesson-5.1-sourceTree-pushing-content-through-sourceTree.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/29/Lesson-5.1-sourceTree-pushing-content-through-sourceTree.html</guid>
         
         
         <category>jekyll</category>
@@ -184,8 +184,8 @@ And it works this time, now we can proceed to push our content, so first let us 
 &lt;p&gt;So it works! &lt;strong&gt;after&lt;/strong&gt; many mistake and problem, on a side note, one of the problem that has cause me many days was the loading of the image, first time is the url problem, second time is when I create the image folder in the wrong place, the third time is when i’ve overlook a very very basic mistake, which is the first letter of my image file is capitalise but not in my content that I wrote.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/15/Lesson-4.2-pushing-content-to-Jekyll-learning-to-push-your-content-into-your-static-website.html</guid>
         
         
         <category>jekyll</category>
@@ -247,8 +247,8 @@ And it works this time, now we can proceed to push our content, so first let us 
 &lt;/table&gt;
 </description>
         <pubDate>Wed, 11 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/11/markdown-syntax.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/11/markdown-syntax.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/11/markdown-syntax.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/11/markdown-syntax.html</guid>
         
         
         <category>jekyll</category>
@@ -362,8 +362,8 @@ Lets try putting in the table too, (always remember that we can always copy and 
 &lt;p&gt;As you can see , writing in markdown is really really simple, and it’s understandable. if a guy like me can do it,  i guess anybody can do it too=)&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/11/lesson-4.1-Jekyll-introduction-to-Jekyll-and-markdown.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/11/lesson-4.1-Jekyll-introduction-to-Jekyll-and-markdown.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/11/lesson-4.1-Jekyll-introduction-to-Jekyll-and-markdown.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/11/lesson-4.1-Jekyll-introduction-to-Jekyll-and-markdown.html</guid>
         
         
         <category>jekyll</category>
@@ -453,8 +453,8 @@ This one above I type in the wrong place for the row number, unfortunately I for
 &lt;p&gt;￼&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.7-inserting-table-how-to-insert-table-into-html-and-style-it.html</guid>
         
         
         <category>jekyll</category>
@@ -537,8 +537,8 @@ And lets test out the  other different ones too&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.6-introduction-to-JavaScript-understanding-JavaScript-and-using-it.html</guid>
         
         
         <category>jekyll</category>
@@ -631,8 +631,8 @@ now lets adjust the size to 30% for the width and height.&lt;/p&gt;
 &lt;p&gt;And its done for now, I will add in different things like button and table and I will find other alternative beside bootstrap to use and try how things look too&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.5-inserting-images-into-HTML-documents-how-to-insert-and-style-image-in-HTML-documents.html</guid>
         
         
         <category>jekyll</category>
@@ -747,8 +747,8 @@ Anyway when I just said that beside using font family, that you can also use for
 &lt;p&gt;For id you you must remember to put a # beside your id and for class it is a . Symbol. it doesn’t have to be just color, you can edit the size of your text or images, you just have to explore to see what else we can do with it=)&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.4-different-type-of-fonts-styling-using-fonts-and-attribute-with-internal-CSS.html</guid>
         
         
         <category>jekyll</category>
@@ -798,8 +798,8 @@ elements usually consist of a start tag and end tag.&lt;/p&gt;
 &lt;p&gt;We can do the same thing with fonts like how we do with color, I will talk about fonts later on and once everything has been explain, we will try out everything on the macbook in one html documents=)&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.3-applying-internal-CSS-understanding-how-to-use-internal-CSS-and-the-different-elements-and-attributes.html</guid>
         
         
         <category>jekyll</category>
@@ -889,8 +889,8 @@ The third way to specify Color is using hex value though I did not learn about i
 &lt;p&gt;Ok and it works! So things aren’t really that difficult since a lot of stuff we can google it online as long as you know which to find.&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//jekyll/update/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS.html</guid>
+        <link>http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS.html</link>
+        <guid isPermaLink="true">http://cseddie.github.io//jekyll/update/2017/01/08/lesson-3.2-ways-of-applying-CSS-styling-our-HTML-documents-using-inline-CSS.html</guid>
         
         
         <category>jekyll</category>
